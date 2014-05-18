@@ -5,10 +5,12 @@ launcher_profiles.json
 launcher.jar
 launcher.pack.lzma
 options.txt
+asm/*
 assets/*
 hats/*
 libraries/*
 logs/*
+mods/1.7.2/*
 resourcepacks/*
 saves/*
 stats/*
