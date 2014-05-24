@@ -21,6 +21,12 @@ NEI is a library tool for examining all of the items you can find and/or create 
 
 [Donate](http://www.chickenbones.craftsaddle.org/Pages/donate.php), [Download](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php), License: Not Available, IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/), Reddit: Not Available, [Source](https://github.com/Chicken-Bones/NotEnoughItems), [Spotlight](https://www.youtube.com/watch?v=DGyQFoedJpk), [Twitter](https://twitter.com/ChickenBones2).
 
+##Thaumcraft 4.1.1.14 by Azanor
+
+Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This is what this mod is all about - drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.
+
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=88PFJA73AEFFW&lc=ZA&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted), [Download](http://adf.ly/1311628/thaumcraft-4), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/2011841-thaumcraft-41114-updated-2052014), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=u_xJj356v28&feature=kp), [Twitter](https://twitter.com/Azanor1)
+
 ##What am I looking at (Waila) 1.5.2 by ProfMobius
 
 Waila is an extension for NEI. It will show in the tooltip what mod an item is from. Since the tooltip contains the mod name, you can also easly parse items per mods. But that's not all ! Leveraging an extended NEI HUD, it is also capable of showing the name of blocks and mods ingame, right on top of your screen. If this is not enough, it comes with a few integrated modules to show internal information of some specific blocks. For now, BC tanks have been implemented (shows the content, capacity and amount of fluid) and IC2 machines (shows the In/out voltage).
