@@ -8,6 +8,13 @@ Adds a huge amount of additional biomes, a few creatures and one dimension to th
 
 [Donate](http://www.reddit.com/r/biomesoplenty/wiki/donate), [Download](http://files.minecraftforge.net/BiomesOPlenty), [License](http://creativecommons.org/licenses/by-nc-nd/4.0), [IRC](http://webchat.esper.net/?nick=&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;channels=biomesoplenty), [Minecraft Forum](http://www.minecraftforum.net/topic/1495041-172-forge-biomes-o-plenty-were-back), [Reddit](http://www.reddit.com/r/biomesoplenty), [Source](https://github.com/Glitchfiend/BiomesOPlenty), [Spotlight](https://www.youtube.com/watch?v=Qnl7MaSCiRg), Twitter: [Forstride](https://twitter.com/Forstride) & [TheAdubbz](https://twitter.com/TheAdubbz).
 
+##Dynamic Lights 1.3.3 by AtomicStryker
+
+Improves Minecrafts lighting system by allowing moving objects to cast light. For example, holding a torch in your hand, creatures and enemies that are on fire, magical armor, etc. Note that this is a visual effect only, and does not prevent monsters from spawning.
+"README.md" 29L, 3537C
+
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=CvomlYNJXOVeaxJWWVwNn1bJSK3gNLtEfOzMhmmzHVP4eWTLtDzP2_piZ7q), [Download](http://www.atomicstryker.net/dynamiclights.php), [License](http://www.atomicstryker.net/about.php), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/184426-172-dynamic-lights-handheld-torches-moving-lightsources), Reddit: Not Available, [Source](https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FDynamicLights), [Spotlight](https://www.youtube.com/watch?v=XE_n3eZKl_c#t=65), [Twitter](https://twitter.com/AtomicStryker)
+
 ##Not Enough Items 1.0.1 by ChickenBones
 
 NEI is a library tool for examining all of the items you can find and/or create in Minecraft. It provides the ability to search for items by name, and most importantly, easily lookup all the recipes that either consume or produce the item.
