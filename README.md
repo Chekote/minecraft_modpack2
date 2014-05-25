@@ -14,6 +14,12 @@ Adds a huge amount of additional biomes, a few creatures and one dimension to th
 
 [Donate](http://www.reddit.com/r/biomesoplenty/wiki/donate), [Download](http://files.minecraftforge.net/BiomesOPlenty), [License](http://creativecommons.org/licenses/by-nc-nd/4.0), [IRC](http://webchat.esper.net/?nick=&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;channels=biomesoplenty), [Minecraft Forum](http://www.minecraftforum.net/topic/1495041-172-forge-biomes-o-plenty-were-back), [Reddit](http://www.reddit.com/r/biomesoplenty), [Source](https://github.com/Glitchfiend/BiomesOPlenty), [Spotlight](https://www.youtube.com/watch?v=Qnl7MaSCiRg), Twitter: [Forstride](https://twitter.com/Forstride) & [TheAdubbz](https://twitter.com/TheAdubbz).
 
+##BuildCraft 6.0.15 by Covert Jaguar
+
+Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!
+
+[Donate](http://www.patreon.com/SpaceToad), [Download](http://www.mod-buildcraft.com/download), IRC: Not Available, [License](http://www.mod-buildcraft.com/MMPL-1.0.txt), [Minecraft Forum](http://www.minecraftforum.net/topic/682920-172-buildcraft-nextgen-607-blueprints-pipes-quarry-auto-crafting-building-engines), Reddit: Not Available, [Source](https://github.com/BuildCraft/BuildCraft), [Spotlight](), [Twitter](https://twitter.com/SpaceToadCraft)
+
 ##Dynamic Lights 1.3.3 by AtomicStryker
 
 Improves Minecrafts lighting system by allowing moving objects to cast light. For example, holding a torch in your hand, creatures and enemies that are on fire, magical armor, etc. Note that this is a visual effect only, and does not prevent monsters from spawning.
