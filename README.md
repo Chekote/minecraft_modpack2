@@ -2,6 +2,12 @@ Chekote's Modpack v2, for Minecraft 1.7.2
 
 #Mod List:
 
+##Archimedes Ships 1.6.1 by BalkondeurAlpha
+
+Adds the ability to construct ships and airships out of almost any block, and turn them into fully controllable vehicles.
+
+Donate: Not Available, [Download](http://goo.gl/kSOVhx), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1857899-172-164forge-archimedes-ships-v15-advanced-ship-creation), Reddit: Not Available, Source: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=RhiybUoIFsk#t=530), Twitter: Not Available
+
 ##Biomes 'o' Plenty 2.0.1.887 by TheAdubbz
 
 Adds a huge amount of additional biomes, a few creatures and one dimension to the game.
