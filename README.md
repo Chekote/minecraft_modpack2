@@ -27,6 +27,16 @@ NEI is a library tool for examining all of the items you can find and/or create 
 
 [Donate](http://www.chickenbones.craftsaddle.org/Pages/donate.php), [Download](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php), License: Not Available, IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/), Reddit: Not Available, [Source](https://github.com/Chicken-Bones/NotEnoughItems), [Spotlight](https://www.youtube.com/watch?v=DGyQFoedJpk), [Twitter](https://twitter.com/ChickenBones2).
 
+##OpenEye 0.5 by The OpenMods team
+
+OpenEye is (mostly) a developer tool, that collects mods' usage and crash reports. It also delivers notifications (created by mod authors) to clients. Our primary aim is to collect and share vital information to allow us to provide a set of tools to the community to make the experience easier, drama-free and more secure for both users and modders.
+
+Our primary aim is to collect and share vital information to allow us to provide a set of tools to the community to make the experience easier, drama-free and more secure for both users and modders.
+
+We want to make it clear from the very start that we do this in a completely transparent way - our data is open to anyone and our code is open source. We do not track users or keep any identifying information, and people are very welcome to confirm that for themselves by browsing the code or the regular data dumps that we will provide.
+
+[Official Page](http://openeye.openmods.info/download), Donate: Not Available, [Download](https://dl.dropboxusercontent.com/u/4295615/OpenEye-0.5-1.7.2.jar), [IRC](http://chat.mibbit.com/?channel=%23openeye&server=irc.esper.net), [License](https://github.com/OpenMods/OpenData/blob/master/LICENSE), [Minecraft Forum](http://www.minecraftforum.net/topic/2635657-164-172-introducing-openeye), Reddit: Not Available, [Source](https://github.com/OpenMods/OpenData), Spotlight: Not Available, Twitter: Not Available
+
 ##Thaumcraft 4.1.1.14 by Azanor
 
 Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This is what this mod is all about - drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.
