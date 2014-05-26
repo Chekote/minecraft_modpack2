@@ -121,6 +121,7 @@ BuildCraft|Silicon:laserBlock
 BuildCraft|Silicon:null
 BuildCraft|Transport:filteredBufferBlock
 BuildCraft|Transport:pipeBlock
+IronChest:BlockIronChest
 Railcraft:tile.block.firestone.recharge
 Railcraft:tile.railcraft.block.anvil
 Railcraft:tile.railcraft.block.fluid.creosote
@@ -599,6 +600,16 @@ BuildCraft|Transport:pipeGate
 BuildCraft|Transport:pipePlug
 BuildCraft|Transport:pipeWaterproof
 BuildCraft|Transport:pipeWire
+IronChest:BlockIronChest
+IronChest:copperIronUpgrade
+IronChest:copperSilverUpgrade
+IronChest:diamondCrystalUpgrade
+IronChest:diamondObsidianUpgrade
+IronChest:goldDiamondUpgrade
+IronChest:ironGoldUpgrade
+IronChest:silverGoldUpgrade
+IronChest:woodCopperUpgrade
+IronChest:woodIronUpgrade
 Railcraft:armor.goggles
 Railcraft:armor.overalls
 Railcraft:armor.steel.boots
