@@ -20,6 +20,14 @@ Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!
 
 [Donate](http://www.patreon.com/SpaceToad), [Download](http://www.mod-buildcraft.com/download), IRC: Not Available, [License](http://www.mod-buildcraft.com/MMPL-1.0.txt), [Minecraft Forum](http://www.minecraftforum.net/topic/682920-172-buildcraft-nextgen-607-blueprints-pipes-quarry-auto-crafting-building-engines), Reddit: Not Available, [Source](https://github.com/BuildCraft/BuildCraft), [Spotlight](), [Twitter](https://twitter.com/SpaceToadCraft)
 
+##Carpenters Blocks 3.1.4 by Mineshopper
+
+This mod adds slopes and a custom variety of vanilla-inspired blocks to the game!  They may look like ordinary frames or wooden blocks in their base form, but they can actually be covered with nearly any block in the game.  The frame will inherit the cover block's texture and most of it's other properties including flammability, explosion resistance, and more.
+
+In addition to covering the block with almost anything, you can also overlay any of the blocks with grass, snow, hay, web, mycelium or vine!  Still not convinced?  Craft the Carpenter's Chisel and carve elaborate designs into any of the blocks.  Custom patterns can easily be added.
+
+Donate: Not Available, [Download](http://adf.ly/kyN03), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1790919-17forge-carpenters-blocks-v314), Reddit: Not Available, [Source](https://github.com/Mineshopper/carpentersblocks), [Spotlight](https://www.youtube.com/watch?v=MdPj-SwkKfw), Twitter: Not Available
+
 ##Dynamic Lights 1.3.3 by AtomicStryker
 
 Improves Minecrafts lighting system by allowing moving objects to cast light. For example, holding a torch in your hand, creatures and enemies that are on fire, magical armor, etc. Note that this is a visual effect only, and does not prevent monsters from spawning.
