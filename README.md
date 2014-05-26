@@ -41,6 +41,12 @@ Adds many tiered chests, each of which are progressively more expensive to make,
 
 Donate: Not Available, [Download](http://files.minecraftforge.net/IronChests2), IRC: Not Available, [License](http://www.gnu.org/copyleft/gpl.html), [Minecraft Forum](http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update), Reddit: Not Available, [Source](https://github.com/cpw/ironchest), [Spotlight](https://www.youtube.com/watch?v=_l-Y3buIH18), [Twitter](https://twitter.com/minecraftcpw)
 
+##Mo' Creatures 6.2.0 Dev R3 by DrZhark
+
+This Mod adds a huge number of new passive and hostile creatures to the game.
+
+[Donate](http://mocreatures.org/donate), [Download](http://mocreatures.org/downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/81771-172-mo-creatures-v620-with-ents-and-moles), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=56HE91UwHDE), [Twitter](https://twitter.com/DrZhark)
+
 ##Not Enough Items 1.0.1 by ChickenBones
 
 NEI is a library tool for examining all of the items you can find and/or create in Minecraft. It provides the ability to search for items by name, and most importantly, easily lookup all the recipes that either consume or produce the item.
