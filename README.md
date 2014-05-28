@@ -41,6 +41,17 @@ This mod adds a gravestone to the game, which "spawns" at player/villager/dog/ca
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9EC38X4BQSQCA), [Download](http://adf.ly/3890646/gravestone-283---172), IRC: Not Available, [License](http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [Minecraft Forum](http://www.minecraftforum.net/topic/1711328-172-smp-gravestone-mod-v283), Reddit: Not Available, [Source](https://github.com/NightKosh/GraveStone-mod), [Spotlight](https://www.youtube.com/watch?v=jPT83W-HFwA), [Twitter](https://twitter.com/NightKosh)
 
+##Inventory Tweaks 1.57 by Kobata
+
+This client mod allows you to easily manage your inventory, in both single player and multiplayer. It works out of the box, and will make you gain a massive amount of time!
+
+* It automatically replaces your tools as they break, and item stacks once emptied
+* It sorts your inventory and your chests in a single click/keystroke
+* It provides lots of powerful shortcuts to move items around
+* It allows you to customize entirely the way your inventory is sorted, thanks to clever configuration files
+
+Donate: Not Available, [Download](http://build.technicpack.net/job/Inventory-Tweaks/116/artifact/build/libs/InventoryTweaks-1.57-116.jar), [IRC](http://webchat.esper.net/?channels=inventorytweaks), [License](https://github.com/mkalam-alami/inventory-tweaks/blob/develop/LICENSE.md), [Minecraft Forum](http://www.minecraftforum.net/topic/1720872-172-inventory-tweaks-157-march-14), Reddit: Not Available, [Source](https://github.com/Kobata/inventory-tweaks), [Spotlight](https://www.youtube.com/watch?v=1of4502m_c8), Twitter: Not Available
+
 ##Iron Chests 6.0.14.719 by cpw
 
 Adds many tiered chests, each of which are progressively more expensive to make, but offer a commensurate increase in storage capacity.
