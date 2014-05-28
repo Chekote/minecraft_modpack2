@@ -35,6 +35,12 @@ Improves Minecrafts lighting system by allowing moving objects to cast light. Fo
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=CvomlYNJXOVeaxJWWVwNn1bJSK3gNLtEfOzMhmmzHVP4eWTLtDzP2_piZ7q), [Download](http://www.atomicstryker.net/dynamiclights.php), [License](http://www.atomicstryker.net/about.php), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/184426-172-dynamic-lights-handheld-torches-moving-lightsources), Reddit: Not Available, [Source](https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FDynamicLights), [Spotlight](https://www.youtube.com/watch?v=XE_n3eZKl_c#t=65), [Twitter](https://twitter.com/AtomicStryker)
 
+##Gravestone Mod 2.8.4 by NightKosh
+
+This mod adds a gravestone to the game, which "spawns" at player/villager/dog/cat death. Also this mod generates cemeteries in some villages, and the "Wither's catacombs". This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a "Wither Boss" at the end.
+
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9EC38X4BQSQCA), [Download](http://adf.ly/3890646/gravestone-283---172), IRC: Not Available, [License](http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [Minecraft Forum](http://www.minecraftforum.net/topic/1711328-172-smp-gravestone-mod-v283), Reddit: Not Available, [Source](https://github.com/NightKosh/GraveStone-mod), [Spotlight](https://www.youtube.com/watch?v=jPT83W-HFwA), [Twitter](https://twitter.com/NightKosh)
+
 ##Iron Chests 6.0.14.719 by cpw
 
 Adds many tiered chests, each of which are progressively more expensive to make, but offer a commensurate increase in storage capacity.
