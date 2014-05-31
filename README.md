@@ -19,7 +19,7 @@ Currently this mod replaces animations for walking, running, swimming, jumping, 
 
 It also now adds Thaumcraft's Native Clusters for every possible ore! As soon as they are updated there will also be integration with Mekanism and ThermalExpansion!
 
-Donate: Not Available, [Download](http://www.mediafire.com/download/cr194uvfg75efma/AOBD-2.0.2.jar), IRC: Not Available, [License](), [Minecraft Forum](), [Reddit](), [Source](), [Spotlight](), [Twitter]()
+Donate: Not Available, [Download](http://www.mediafire.com/download/cr194uvfg75efma/AOBD-2.0.2.jar), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/2319703-172-aobd-2-process-all-the-ores-v202/), Reddit: Not Available, Source: Not Available, Spotlight: Not Avialable, [Twitter](https://twitter.com/ganymedes01)
 
 ##Arcane Scrolls 3.1.2.24 by Duke605
 
@@ -152,6 +152,14 @@ We want to make it clear from the very start that we do this in a completely tra
 Have you ever wished minecarts and rails had received a bit more attention during development? Well that ends now! Gone are all those broken bits and in their place are a ton of new tools to build your massive rail system. If you ever cared about rails, you wont ever look back!
 
 [Donate](http://www.patreon.com/SpaceToad), [Download](http://www.railcraft.info/releases), IRC: Not Available, [License](http://railcraft.wikispaces.com/License+(Info)), [Minecraft Forum](http://www.minecraftforum.net/topic/701990-162-railcraft-8000-forge), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=c0Lhh00ZmuA), [Twitter](https://twitter.com/SpaceToadCraft)
+
+##Ruins 13.1 by AtomicStryker
+
+Ruins is a mod that spawns Structures in your Minecraft worlds upon generation, similar to Villages or Strongholds. Every Structure is defines by a template and configured to spawn under specific conditions, and all of that can be changed by you!
+
+There is a lot of Structures already included, and there's bound to be more added.
+
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=CvomlYNJXOVeaxJWWVwNn1bJSK3gNLtEfOzMhmmzHVP4eWTLtDzP2_piZ7q), [Download](http://adf.ly/cPZEH), [License](http://www.atomicstryker.net/about.php), [Minecraft Forum](http://www.minecraftforum.net/topic/1113099-172-ruins-structure-spawning-system/), [Source](https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FDynamicLights), [Spotlight](https://www.youtube.com/watch?v=9sAmaXIuBpI), [Twitter](https://twitter.com/AtomicStryker)
 
 ##Thaumcraft 4.1.1.14 by Azanor
 
