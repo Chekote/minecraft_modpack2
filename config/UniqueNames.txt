@@ -17,6 +17,28 @@ ArchimedesShips:floater
 ArchimedesShips:gauge
 ArchimedesShips:marker
 ArchimedesShips:seat
+BiblioCraft:Armor Stand
+BiblioCraft:BiblioBell
+BiblioCraft:BiblioCase
+BiblioCraft:BiblioDesk
+BiblioCraft:BiblioFancySign
+BiblioCraft:BiblioIronLamp
+BiblioCraft:BiblioIronLantern
+BiblioCraft:BiblioLabel
+BiblioCraft:BiblioLamp
+BiblioCraft:BiblioLantern
+BiblioCraft:BiblioMapFrames
+BiblioCraft:BiblioPotionShelf
+BiblioCraft:BiblioRack
+BiblioCraft:BiblioSeats
+BiblioCraft:BiblioShelf
+BiblioCraft:BiblioStuffs
+BiblioCraft:BiblioSwordPedestal
+BiblioCraft:BiblioTable
+BiblioCraft:BiblioWorkbench
+BiblioCraft:Bibliotheca
+BiblioCraft:Printing Press
+BiblioCraft:Typesetting Machine
 BiomesOPlenty:appleLeaves
 BiomesOPlenty:ash
 BiomesOPlenty:ashStone
@@ -542,6 +564,49 @@ ArchimedesShips:gauge
 ArchimedesShips:marker
 ArchimedesShips:seat
 Baubles:Ring
+BiblioCraft:Armor Stand
+BiblioCraft:BiblioBell
+BiblioCraft:BiblioCase
+BiblioCraft:BiblioDesk
+BiblioCraft:BiblioFancySign
+BiblioCraft:BiblioIronLamp
+BiblioCraft:BiblioIronLantern
+BiblioCraft:BiblioLabel
+BiblioCraft:BiblioLamp
+BiblioCraft:BiblioLantern
+BiblioCraft:BiblioMapFrames
+BiblioCraft:BiblioPotionShelf
+BiblioCraft:BiblioRack
+BiblioCraft:BiblioSeats
+BiblioCraft:BiblioShelf
+BiblioCraft:BiblioStuffs
+BiblioCraft:BiblioSwordPedestal
+BiblioCraft:BiblioTable
+BiblioCraft:BiblioWorkbench
+BiblioCraft:Bibliotheca
+BiblioCraft:Printing Press
+BiblioCraft:Typesetting Machine
+BiblioCraft:item.BiblioChase
+BiblioCraft:item.BiblioClipboard
+BiblioCraft:item.BiblioCreativeLock
+BiblioCraft:item.BiblioDrill
+BiblioCraft:item.BiblioGlasses
+BiblioCraft:item.BiblioMapTool
+BiblioCraft:item.BiblioRedBook
+BiblioCraft:item.BiblioWayPointCompass
+BiblioCraft:item.BigBook
+BiblioCraft:item.EnchantedPlate
+BiblioCraft:item.HandDrill
+BiblioCraft:item.PrintPlate
+BiblioCraft:item.RecipeBook
+BiblioCraft:item.SlottedBook
+BiblioCraft:item.seatBack
+BiblioCraft:item.seatBack2
+BiblioCraft:item.seatBack3
+BiblioCraft:item.seatBack4
+BiblioCraft:item.seatBack5
+BiblioCraft:item.tape
+BiblioCraft:item.tapeMeasure
 BiomesOPlenty:ancientStaff
 BiomesOPlenty:appleLeaves
 BiomesOPlenty:ash
