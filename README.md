@@ -2,6 +2,17 @@ Chekote's Modpack v2, for Minecraft 1.7.2
 
 #Mod List:
 
+##Animated Player 1.4.1 by TheHippoMaster21
+
+Do you love Minecraft's default animations? Are you obsessed with the way the Minecraft player looks and acts? Do you wish Minecraft's player would forever look the same way? Well if you do, then this isn't the mod for you!
+
+After countless hours of working (it wasn't that long), Professor HippoMaster now introduces to you the Animated Player Mod! This mod completely replaces and reanimates the player model by adding more joints and better animations. Also, it's completely client-based, which means it works for servers too (just don't install it into the server)!
+
+Animations:
+Currently this mod replaces animations for walking, running, swimming, jumping, sneaking, riding, bow-aiming, blocking, climbing, hitting, eating, and drinking!
+
+[Donate: Not Available, [Download](http://goo.gl/K8aaV), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1768057-172aesthetic-animated-player-rounded-curves-v141/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=UH6Kv06vSH0)
+
 ##Archimedes Ships 1.6.1 by BalkondeurAlpha
 
 Adds the ability to construct ships and airships out of almost any block, and turn them into fully controllable vehicles.
