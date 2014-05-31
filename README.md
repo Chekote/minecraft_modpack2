@@ -8,6 +8,26 @@ Adds the ability to construct ships and airships out of almost any block, and tu
 
 Donate: Not Available, [Download](http://goo.gl/kSOVhx), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1857899-172-164forge-archimedes-ships-v15-advanced-ship-creation), Reddit: Not Available, Source: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=RhiybUoIFsk#t=530), Twitter: Not Available
 
+##Better Horses 1.0.0 by TheHippoMaster21
+
+Everyone loves horses! But sometimes, do you ever feel like some things could be improved? Do you feel like the horses' animations and behaviors seem a bit, might I say, too blocky? Don't you want smoother more horse-like animations? Then this is the mod for you!
+
+Professor HippoMaster presents to you the Better Horses Mod! This mod replaces vanilla Minecraft's horses with similar new and improved horses! Although they look the exact same, these modded horses have many added and replaced animations as well as various minor fixes and improvements. You name it! From new animations to new animations to... yeah, that's about it.
+
+Note, as of now, only adult horses and donkeys are animated.
+
+Many original horse animations that looked choppy (tail swiping) have been replaced with slicker, more stylish animations while other new animations have been introduced to make the horse seem more natural! The animations are listed below:
+
+* Walking
+* Galloping (with rider)
+* Tail shaking
+* Grass eating
+* Head shaking
+* Rearing
+* Jumping
+
+Donate: Not Available, [Download](http://adf.ly/377779/better-horses-v100-mc172), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1520923-172-hippomasters-mods-better-horses/), Reddit: Not Available, Source: Not Available, Spotlight: Not Available
+
 ##BilbioCraft 1.7.1 by Nuchaz
 
 Adds various different furniture and decorative items, which are not only useful for creating more convincing building interiors, but also add functionality for storing and displaying various items such as books, potions and weapons etc.
