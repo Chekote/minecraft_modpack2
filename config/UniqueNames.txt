@@ -1510,6 +1510,16 @@ UndergroundBiomes:sedimentaryStoneFullSlab
 UndergroundBiomes:sedimentaryStoneHalfSlab
 UndergroundBiomes:stairs
 UndergroundBiomes:wall
+aobd:clusterAluminium
+aobd:clusterArdite
+aobd:clusterCobalt
+aobd:dustAluminium
+aobd:dustArdite
+aobd:dustCobalt
+aobd:dustCopper
+aobd:dustGold
+aobd:dustIron
+aobd:dustTin
 minecraft:acacia_stairs
 minecraft:activator_rail
 minecraft:anvil

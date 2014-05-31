@@ -13,6 +13,14 @@ Currently this mod replaces animations for walking, running, swimming, jumping, 
 
 [Donate: Not Available, [Download](http://goo.gl/K8aaV), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1768057-172aesthetic-animated-player-rounded-curves-v141/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=UH6Kv06vSH0)
 
+##Another One Bites The Dust 2.0.2 by Ganymedes01
+
+​AOBD has grown further than being a simple TIC add-on to allow Ardite and Cobalt processing. It now automatically detects every single ore from every single mod you have installed and creates the necessary dusts and etc in order for that metal to be processed on IC2, RailCraft's Rock Crusher and EnderIO's SAG Mill!
+
+It also now adds Thaumcraft's Native Clusters for every possible ore! As soon as they are updated there will also be integration with Mekanism and ThermalExpansion!
+
+Donate: Not Available, [Download](http://www.mediafire.com/download/cr194uvfg75efma/AOBD-2.0.2.jar), IRC: Not Available, [License](), [Minecraft Forum](), [Reddit](), [Source](), [Spotlight](), [Twitter]()
+
 ##Arcane Scrolls 3.1.2.24 by Duke605
 
 Adds Scrolls to you to your game that give you different abilities. There are 4 categories, Utility(Green), Offensive(Red),  Defensive(Blue), Special(Purple).
