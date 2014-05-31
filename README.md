@@ -76,6 +76,14 @@ NEI is a library tool for examining all of the items you can find and/or create 
 
 [Donate](http://www.chickenbones.craftsaddle.org/Pages/donate.php), [Download](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php), License: Not Available, IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/), Reddit: Not Available, [Source](https://github.com/Chicken-Bones/NotEnoughItems), [Spotlight](https://www.youtube.com/watch?v=DGyQFoedJpk), [Twitter](https://twitter.com/ChickenBones2).
 
+##Mutant Creatures 1.4.5 by TheHippoMaster21
+
+Gunpowder... Spice... And everything nice. These were the ingredients chosen to create the perfect pet creatures. But Professor HippoMaster accidentally added an extra ingredient to the concoction... Chemical X! Thus the Mutant Creatures were born!
+
+Add Chemical X to the game, a mutinagenic that can be thrown at most Vanilla mobs, and turn them into super powered mutant versions of themselves. Mutant creatures *can* spawn naturally, but it is very rare.
+
+Donate: Not Available, [Download](http://goo.gl/DJXRz), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1336132-172spmp-mutant-creatures-updated-v145/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=novGZ1mCqGQ), Twitter: Not Available
+
 ##OpenEye 0.5 by The OpenMods team
 
 OpenEye is (mostly) a developer tool, that collects mods' usage and crash reports. It also delivers notifications (created by mod authors) to clients. Our primary aim is to collect and share vital information to allow us to provide a set of tools to the community to make the experience easier, drama-free and more secure for both users and modders.
