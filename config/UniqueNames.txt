@@ -9,6 +9,7 @@
 **********************************************
 
 
+AS1:arcane_ore
 ArchimedesShips:balloon
 ArchimedesShips:buffer
 ArchimedesShips:crate_wood
@@ -567,6 +568,16 @@ minecraft:yellow_flower
 ***************************************
 
 
+AS1:anchor_stone
+AS1:arcane_ore
+AS1:arcane_pouch
+AS1:arcane_stone
+AS1:arcane_sword
+AS1:arcane_tome
+AS1:arcane_ward
+AS1:misc
+AS1:scroll
+AS1:useless_stick
 ArchimedesShips:balloon
 ArchimedesShips:buffer
 ArchimedesShips:crate_wood

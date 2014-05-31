@@ -13,6 +13,12 @@ Currently this mod replaces animations for walking, running, swimming, jumping, 
 
 [Donate: Not Available, [Download](http://goo.gl/K8aaV), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1768057-172aesthetic-animated-player-rounded-curves-v141/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=UH6Kv06vSH0)
 
+##Arcane Scrolls 3.1.2.24 by Duke605
+
+Adds Scrolls to you to your game that give you different abilities. There are 4 categories, Utility(Green), Offensive(Red),  Defensive(Blue), Special(Purple).
+
+Donate: Not Available, [Download](http://duke605.github.io/mods/arcane-scrolls/download/), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1827837-172forgeuniversal-arcane-scrolls-v31224/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=JfhEZgizmAk), Twitter: Not Available
+
 ##Archimedes Ships 1.6.1 by BalkondeurAlpha
 
 Adds the ability to construct ships and airships out of almost any block, and turn them into fully controllable vehicles.
