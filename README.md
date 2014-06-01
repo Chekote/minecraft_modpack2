@@ -208,3 +208,11 @@ Waila is an extension for NEI. It will show in the tooltip what mod an item is f
 How to use: It's pretty much automatic. Although you can bring up the Waila menu with numpad 0, and enable / disable it with numpad 1.
 
 [Donate](http://www.patreon.com/profmobius), [Download](http://minecraft.curseforge.com/mc-mods/73488-waila/files), [License](http://www.apache.org/licenses/LICENSE-2.0.html), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1846244-172-waila-152), Reddit: Not Available, [Source](https://bitbucket.org/ProfMobius/waila), [Spotlight](https://www.youtube.com/watch?v=y1wN8XPgRU4), [Twitter](https://twitter.com/ProfMobius)
+
+##Witchery 0.18.4 by Emoniph
+
+Witchery provides several branches of witchcraft for a new witch or warlock to try their hand at. Witchcraft does not really resemble the flashy spell-casting performed by wizards and their ilk. There are no lightning wands or spell books, enchanted armor or flaming swords; instead, a well tended witch's garden will provide a lot of helpful ingredients for magic that will get you out of the occasional scrape.
+
+There are of course darker sides to magic; and although these may bring power more quickly, the cost may be too high. Making bargains with demons should never be undertaken lightly!
+
+[Donate](), [Download](http://www.curse.com/mc-mods/minecraft/witchery#t1:other-downloads), [IRC](http://webchat.esper.net/?channels=witchery), [License](http://www.minecraftforum.net/topic/1992544-164172-forge-witchery-0184/) (See Terms & Conditions section), [Minecraft Forum](http://www.minecraftforum.net/topic/1992544-164172-forge-witchery-0184/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=2G4nq1sN-C4), [Twitter](https://twitter.com/Emoniph)
