@@ -59,7 +59,7 @@ Adds various different furniture and decorative items, which are not only useful
 
 [Donate](http://www.bibliocraftmod.com/?page_id=352), [Download](http://www.bibliocraftmod.com/?page_id=48), IRC: Not Available, [License](http://www.bibliocraftmod.com/?page_id=57), [Minecraft Forum](http://www.minecraftforum.net/topic/1680480-172164forgesmp-bibliocraft-v170-bookcases-armor-stands-shelves-printing-presses-seats-map-frames-and-more-updated-05112014/), Reddit: Not Available, [Source](https://github.com/Nuchaz/BiblioCraft), [Spotlight](https://www.youtube.com/watch?v=rjXLfssEtoM), [Twitter](https://twitter.com/Mozzerello)
 
-##Biomes 'o' Plenty 2.0.1.887 by TheAdubbz
+##Biomes 'o' Plenty 2.0.1.891 by TheAdubbz
 
 Adds a huge amount of additional biomes, a few creatures and one dimension to the game.
 
