@@ -200,7 +200,7 @@ Tinkers' Construct is a mod about putting tools together in a wide variety of wa
 
 [Donate](http://www.patreon.com/mDiyo), [Download](http://www.curseforge.com/media/files/787/581/TConstruct-1.7.2-1.6.0.a14.jar), [IRC](http://webchat.esper.net/?channels=TinkersConstruct), [License](http://creativecommons.org/licenses/by/3.0/), [Minecraft Forum](http://www.minecraftforum.net/topic/1659892-164tinkers-construct/), Reddit: Not Available, [Source](https://github.com/SlimeKnights/TinkersConstruct), [Spotlight](https://www.youtube.com/watch?v=FtZQjLxdW6s), [Twitter](https://twitter.com/Merdiwen)
 
-##Treecapitator 2.0.2 by bspkrs
+##Treecapitator 2.0.3 by bspkrs
 
 This mod allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Based on Terraria tree-cutting style. Basically, the larger the tree, the longer it will take to break the single log which topples the entire thing. This doesn't make it any faster to harvest the blocks, but it removes the time to nerd pole up to reach each one.
 
