@@ -164,7 +164,7 @@ The mod is quite varied, and the dimensions have many new environment types that
 
 [Donate](https://www.paypal.com/fi/cgi-bin/webscr?cmd=_flow&SESSION=6gh5WJPkPAmANleE8PFozweRG0qLi9Z63BXk_LVqhAf8MztmUKjuZfhQOvq&dispatch=5885d80a13c0db1f8e263663d3faee8d6cdb53fcfca2b5941339e576d7e42259), [Download](http://binarymage.com/mystcraft/publish/mystcraft-1.7.2-0.10.14.00.jar), IRC: Not Available, [License](http://binarymage.com/forum/viewtopic.php?f=23&t=844), [Minecraft Forum](http://www.minecraftforum.net/topic/918541-164-mystcraft-01011/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=sNSkjEvB_f8), [Twitter](https://twitter.com/XCompWiz)
 
-##OpenEye 0.5 by The OpenMods team
+##OpenEye 0.6 by The OpenMods team
 
 OpenEye is (mostly) a developer tool, that collects mods' usage and crash reports. It also delivers notifications (created by mod authors) to clients. Our primary aim is to collect and share vital information to allow us to provide a set of tools to the community to make the experience easier, drama-free and more secure for both users and modders.
 
