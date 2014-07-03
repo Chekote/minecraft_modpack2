@@ -180,7 +180,7 @@ Have you ever wished minecarts and rails had received a bit more attention durin
 
 [Donate](http://www.patreon.com/SpaceToad), [Download](http://www.railcraft.info/releases), IRC: Not Available, [License](http://railcraft.wikispaces.com/License+(Info)), [Minecraft Forum](http://www.minecraftforum.net/topic/701990-162-railcraft-8000-forge), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=c0Lhh00ZmuA), [Twitter](https://twitter.com/SpaceToadCraft)
 
-##Ruins 13.1 by AtomicStryker
+##Ruins 13.4 by AtomicStryker
 
 Ruins is a mod that spawns Structures in your Minecraft worlds upon generation, similar to Villages or Strongholds. Every Structure is defines by a template and configured to spawn under specific conditions, and all of that can be changed by you!
 
