@@ -222,7 +222,7 @@ This is a revision and extension of the outstanding Underground Biomes mod, orig
 
 Donate: Not Available, [Download](http://www.curseforge.com/media/files/787/113/UndergroundBiomesConstructs-1.7.2-0.5h.jar), IRC: Not Available, [License](http://wiki.creativecommons.org/Public_domain), [Minecraft Forum](http://www.minecraftforum.net/topic/2314333-172-164-underground-biomes-constructs), Reddit: Not Available, [Source](https://github.com/Zeno410/UndergroundBiomes), [Spotlight](https://www.youtube.com/watch?v=pGCd0JYDNfM), Twitter: [Exterminator Jeff](https://twitter.com/ExterminatorJef), [Grom PE](https://twitter.com/Grom_PE), [Zeno410](https://twitter.com/Zeno410)
 
-##VoxelMap 1.1.1.0 by MamiyaOtaru
+##VoxelMap No Radar 1.0 by MamiyaOtaru
 
 VoxelMap is an in-game minimap mod with a few nice features.  It displays waypoints (per dimension, and per multiverse world if the server is running voxelPlugin).  It also displays player icons, with optional helmets and playernames.  Waypoints can be edited or removed at any time, with an easy UI for picking their color.  In SP (with commands enabled) or in MP with sufficient permissions, the user can teleport to any waypoint.  Functions in the Nether and has a handy cave mode for underground exploration.
 
