@@ -188,6 +188,12 @@ There is a lot of Structures already included, and there's bound to be more adde
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=CvomlYNJXOVeaxJWWVwNn1bJSK3gNLtEfOzMhmmzHVP4eWTLtDzP2_piZ7q), [Download](http://adf.ly/cPZEH), [License](http://www.atomicstryker.net/about.php), [Minecraft Forum](http://www.minecraftforum.net/topic/1113099-172-ruins-structure-spawning-system/), [Source](https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FDynamicLights), [Spotlight](https://www.youtube.com/watch?v=9sAmaXIuBpI), [Twitter](https://twitter.com/AtomicStryker)
 
+##Smart Moving 15.1 by Divisor
+
+Enhancement the player movement by adding various abilities such as being able to climb up two blocks, dive, swing "monkey bar" style across specific ceiling blocks, charge high-jumps, etc.
+
+Donate: Not Available, [Download](http://www.mediafire.com/?a52f5poadx6mewr), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274224-smart-moving), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=kqDY1RfltDM), Twitter: Not Available
+
 ##Thaumcraft 4.1.1.14 by Azanor
 
 Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This is what this mod is all about - drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.
