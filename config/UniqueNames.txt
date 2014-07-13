@@ -202,6 +202,7 @@ GraveStone:GSMemorial
 GraveStone:GSSkullCandle
 GraveStone:GSSpawner
 GraveStone:GSTrap
+ImmibisMicroblocks:MicroblockContainer
 IronChest:BlockIronChest
 MoCreatures:MoCDirt
 MoCreatures:MoCGrass
@@ -1104,6 +1105,8 @@ GraveStone:GSMemorial
 GraveStone:GSSkullCandle
 GraveStone:GSSpawner
 GraveStone:GSTrap
+ImmibisMicroblocks:MicroblockContainer
+ImmibisMicroblocks:immibis.microblocksaw
 IronChest:BlockIronChest
 IronChest:copperIronUpgrade
 IronChest:copperSilverUpgrade

@@ -148,6 +148,12 @@ NEI is a library tool for examining all of the items you can find and/or create 
 
 [Donate](http://www.chickenbones.craftsaddle.org/Pages/donate.php), [Download](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php), License: Not Available, IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/), Reddit: Not Available, [Source](https://github.com/Chicken-Bones/NotEnoughItems), [Spotlight](https://www.youtube.com/watch?v=DGyQFoedJpk), [Twitter](https://twitter.com/ChickenBones2).
 
+##Microblocks 59.0.0 by Immibis
+
+Adds a Saw that allows you to cut most Vanilla Minecraft blocks into smaller pieces. Multiples of these smaller pieces can then be placed in a single space that would traditionally only allow a single block, allowing you to build more complex structures with finer detail than would normally be possible in Minecraft.
+
+Donate: Not Available, [Download](http://immibis.com/mcmoddl/files/immibis-microblocks-59.0.0.jar), [IRC](http://chat.mibbit.com/?channel=%23minecraftforge&server=irc.esper.net), [License](http://opensource.org/licenses/MIT), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=yWx2_aBNT6c), [Twitter](https://twitter.com/immibis)
+
 ##Mutant Creatures 1.4.5 by TheHippoMaster21
 
 Gunpowder... Spice... And everything nice. These were the ingredients chosen to create the perfect pet creatures. But Professor HippoMaster accidentally added an extra ingredient to the concoction... Chemical X! Thus the Mutant Creatures were born!
