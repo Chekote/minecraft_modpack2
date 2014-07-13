@@ -222,6 +222,7 @@ Mekanism:ReinforcedPlasticBlock
 Mekanism:RoadPlasticBlock
 Mekanism:SaltBlock
 Mekanism:SlickPlasticBlock
+MekanismGenerators:Generator
 MoCreatures:MoCDirt
 MoCreatures:MoCGrass
 MoCreatures:MoCLeaves
@@ -1220,6 +1221,8 @@ Mekanism:SpeedUpgrade
 Mekanism:Substrate
 Mekanism:TeleportationCore
 Mekanism:WalkieTalkie
+MekanismGenerators:Generator
+MekanismGenerators:SolarPanel
 MoCreatures:MoCDirt
 MoCreatures:MoCGrass
 MoCreatures:MoCLeaves
