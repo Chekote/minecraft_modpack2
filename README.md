@@ -148,6 +148,16 @@ NEI is a library tool for examining all of the items you can find and/or create 
 
 [Donate](http://www.chickenbones.craftsaddle.org/Pages/donate.php), [Download](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php), License: Not Available, IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/), Reddit: Not Available, [Source](https://github.com/Chicken-Bones/NotEnoughItems), [Spotlight](https://www.youtube.com/watch?v=DGyQFoedJpk), [Twitter](https://twitter.com/ChickenBones2).
 
+##Mekanism 7.0.0.62 by Aiden Brady
+
+Mekanism is an independent tech mod that brings low, mid, and high tier machinery to Minecraft. The mod doesn’t have an actual goal, and you’ll understand this when you see all the random content Mekanism contains, from jetpacks to balloons.  However, I can assure you that you’ll notice all the content blend together as you get to know the mod better!
+
+Mekanism uses a tier-based system when organizing several of its core features, including Energy Cubes and Factories. There are four tiers: basic, the simplest tier, advanced, the second-most basic tier, elite, the second-most complex tier, and ultimate, the most complex tier. You can upgrade tiers by placing the component in a crafting grid and surrounding it with the necessary resources for the next upgrade (I recommend NotEnoughItems!).
+
+By the time you’ve been using Mekanism for a while, you’ll have a near-instructible suit of Obsidian Armor, be obtaining four ingots for each ore you mine, have the ability to fly wherever you want with the hydrogen-powered jetpacks, and have a cute robotic friend following you around while you mine. :)
+
+[Donate](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=0pz6KXFdP2FIgOwf0b_4sisNRA5jrkUdaNRm3AKa31HTpe04To8ig9_7Wbm&dispatch=5885d80a13c0db1f8e263663d3faee8d5402c249c5a2cfd4a145d37ec05e9a5e), [Download](http://adf.ly/1140958/dl.aidancbrady.com/download?u=http%3A%2F%2Fci.indiewikis.com%3A8080%2Fjob%2FMekanism%2F62%2Fartifact%2Foutput%2FMekanism-1.7.10-7.0.0.62.jar&wiki=http%3A%2F%2Fwiki.aidancbrady.com), [IRC](http://irc.lc/esper/mekanism), [License](http://aidancbrady.com/copyright/), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284681-mekanism-v7-seismic-vibrators-5x-ore-duplication), Reddit: Not Available, [Source](https://github.com/aidancbrady/Mekanism), [Spotlight](https://www.youtube.com/watch?v=GLNXGKZnFBs), [Twitter](https://twitter.com/AidanBrady_)
+
 ##Microblocks 59.0.0 by Immibis
 
 Adds a Saw that allows you to cut most Vanilla Minecraft blocks into smaller pieces. Multiples of these smaller pieces can then be placed in a single space that would traditionally only allow a single block, allowing you to build more complex structures with finer detail than would normally be possible in Minecraft.
