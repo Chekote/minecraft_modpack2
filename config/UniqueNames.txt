@@ -1636,6 +1636,12 @@ TConstruct:trap.barricade.jungle
 TConstruct:trap.barricade.oak
 TConstruct:trap.barricade.spruce
 TConstruct:trap.punji
+TConstruct:travelBelt
+TConstruct:travelBoots
+TConstruct:travelGlove
+TConstruct:travelGoggles
+TConstruct:travelVest
+TConstruct:travelWings
 TConstruct:wideGuard
 TConstruct:woodPattern
 Thaumcraft:ArcaneDoorKey
