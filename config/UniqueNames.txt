@@ -1953,6 +1953,8 @@ meteors:KrekLegs
 meteors:KrekSword
 meteors:KreknoChip
 meteors:KreknoriteIngot
+meteors:MagneticFieldDisruptor
+meteors:MagnetizationController
 meteors:MetAxe
 meteors:MetBody
 meteors:MetBoots
