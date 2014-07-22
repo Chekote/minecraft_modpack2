@@ -268,7 +268,7 @@ VoxelMap is an in-game minimap mod with a few nice features.  It displays waypoi
 
 Donate: Not Available, [Download](http://www.planetminecraft.com/mod/zans-minimap), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1116564-164-162-mamiyaotarus-mods-voxelmap-chatbubbles-etc), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=7gRnUCw61Ww), Twitter: Not Available
 
-##What am I looking at (Waila) 1.5.2 by ProfMobius
+##What am I looking at (Waila) 1.5.3 by ProfMobius
 
 Waila is an extension for NEI. It will show in the tooltip what mod an item is from. Since the tooltip contains the mod name, you can also easly parse items per mods. But that's not all ! Leveraging an extended NEI HUD, it is also capable of showing the name of blocks and mods ingame, right on top of your screen. If this is not enough, it comes with a few integrated modules to show internal information of some specific blocks. For now, BC tanks have been implemented (shows the content, capacity and amount of fluid) and IC2 machines (shows the In/out voltage).
 
