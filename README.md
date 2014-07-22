@@ -276,7 +276,7 @@ How to use: It's pretty much automatic. Although you can bring up the Waila menu
 
 [Donate](http://www.patreon.com/profmobius), [Download](http://minecraft.curseforge.com/mc-mods/73488-waila/files), [License](http://www.apache.org/licenses/LICENSE-2.0.html), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1846244-172-waila-152), Reddit: Not Available, [Source](https://bitbucket.org/ProfMobius/waila), [Spotlight](https://www.youtube.com/watch?v=y1wN8XPgRU4), [Twitter](https://twitter.com/ProfMobius)
 
-##Witchery 0.19.2 by Emoniph
+##Witchery 0.20.0 by Emoniph
 
 Witchery provides several branches of witchcraft for a new witch or warlock to try their hand at. Witchcraft does not really resemble the flashy spell-casting performed by wizards and their ilk. There are no lightning wands or spell books, enchanted armor or flaming swords; instead, a well tended witch's garden will provide a lot of helpful ingredients for magic that will get you out of the occasional scrape.
 
