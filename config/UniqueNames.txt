@@ -99,6 +99,7 @@ BiomesOPlenty:cragRock
 BiomesOPlenty:crystal
 BiomesOPlenty:darkStairs
 BiomesOPlenty:driedDirt
+BiomesOPlenty:etherealStairs
 BiomesOPlenty:firStairs
 BiomesOPlenty:flesh
 BiomesOPlenty:flowerVine
@@ -111,8 +112,8 @@ BiomesOPlenty:hardDirt
 BiomesOPlenty:hardIce
 BiomesOPlenty:hardSand
 BiomesOPlenty:hellBarkStairs
+BiomesOPlenty:hell_blood
 BiomesOPlenty:hive
-BiomesOPlenty:holyStairs
 BiomesOPlenty:honey
 BiomesOPlenty:honeyBlock
 BiomesOPlenty:ivy
@@ -134,6 +135,8 @@ BiomesOPlenty:mud
 BiomesOPlenty:mudBricks
 BiomesOPlenty:mudBricksStairs
 BiomesOPlenty:mushrooms
+BiomesOPlenty:newBopDirt
+BiomesOPlenty:newBopGrass
 BiomesOPlenty:originGrass
 BiomesOPlenty:overgrownNetherrack
 BiomesOPlenty:palmStairs
@@ -147,7 +150,6 @@ BiomesOPlenty:redwoodStairs
 BiomesOPlenty:rocks
 BiomesOPlenty:sacredoakStairs
 BiomesOPlenty:saplings
-BiomesOPlenty:springWater
 BiomesOPlenty:stoneDoubleSlab
 BiomesOPlenty:stoneFormations
 BiomesOPlenty:stoneSingleSlab
@@ -155,6 +157,7 @@ BiomesOPlenty:treeMoss
 BiomesOPlenty:turnip
 BiomesOPlenty:willow
 BiomesOPlenty:willowStairs
+BiomesOPlenty:wisteria
 BiomesOPlenty:woodenDoubleSlab1
 BiomesOPlenty:woodenDoubleSlab2
 BiomesOPlenty:woodenSingleSlab1
@@ -974,6 +977,7 @@ BiomesOPlenty:dart
 BiomesOPlenty:dartBlower
 BiomesOPlenty:driedDirt
 BiomesOPlenty:enderporter
+BiomesOPlenty:etherealStairs
 BiomesOPlenty:firStairs
 BiomesOPlenty:flesh
 BiomesOPlenty:flippers
@@ -990,12 +994,12 @@ BiomesOPlenty:hardDirt
 BiomesOPlenty:hardIce
 BiomesOPlenty:hardSand
 BiomesOPlenty:hellBarkStairs
+BiomesOPlenty:hell_blood
 BiomesOPlenty:helmetAmethyst
 BiomesOPlenty:helmetMud
 BiomesOPlenty:hive
 BiomesOPlenty:hoeAmethyst
 BiomesOPlenty:hoeMud
-BiomesOPlenty:holyStairs
 BiomesOPlenty:honey
 BiomesOPlenty:honeyBlock
 BiomesOPlenty:ivy
@@ -1023,6 +1027,8 @@ BiomesOPlenty:mudBricks
 BiomesOPlenty:mudBricksStairs
 BiomesOPlenty:mudball
 BiomesOPlenty:mushrooms
+BiomesOPlenty:newBopDirt
+BiomesOPlenty:newBopGrass
 BiomesOPlenty:originGrass
 BiomesOPlenty:overgrownNetherrack
 BiomesOPlenty:palmStairs
@@ -1049,7 +1055,6 @@ BiomesOPlenty:scytheStone
 BiomesOPlenty:scytheWood
 BiomesOPlenty:shovelAmethyst
 BiomesOPlenty:shovelMud
-BiomesOPlenty:springWater
 BiomesOPlenty:stoneDoubleSlab
 BiomesOPlenty:stoneFormations
 BiomesOPlenty:stoneSingleSlab
@@ -1061,6 +1066,7 @@ BiomesOPlenty:turnipSeeds
 BiomesOPlenty:wadingBoots
 BiomesOPlenty:willow
 BiomesOPlenty:willowStairs
+BiomesOPlenty:wisteria
 BiomesOPlenty:woodenDoubleSlab1
 BiomesOPlenty:woodenDoubleSlab2
 BiomesOPlenty:woodenSingleSlab1
