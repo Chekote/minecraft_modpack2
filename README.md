@@ -222,11 +222,11 @@ Enhancement the player movement by adding various abilities such as being able t
 
 Donate: Not Available, [Download](http://www.mediafire.com/?a52f5poadx6mewr), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274224-smart-moving), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=kqDY1RfltDM), Twitter: Not Available
 
-##Thaumcraft 4.1.1.14 by Azanor
+##Thaumcraft 4.2.0.1 by Azanor
 
 Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This is what this mod is all about - drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.
 
-[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=88PFJA73AEFFW&lc=ZA&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted), [Download](http://adf.ly/1311628/thaumcraft-4), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/2011841-thaumcraft-41114-updated-2052014), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=u_xJj356v28&feature=kp), [Twitter](https://twitter.com/Azanor1)
+[Donate](http://adf.ly/1311628/thaumcraft-4), [Download](http://adf.ly/1311628/thaumcraft-4), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/2011841-thaumcraft-41114-updated-2052014), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=u_xJj356v28&feature=kp), [Twitter](https://twitter.com/Azanor1)
 
 ##Tinkers Construct 1.6.0a14 by mDiyo
 
