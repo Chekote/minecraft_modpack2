@@ -360,6 +360,7 @@ TConstruct:fluid.molten.lead
 TConstruct:fluid.molten.manyullyn
 TConstruct:fluid.molten.nickel
 TConstruct:fluid.molten.obsidian
+TConstruct:fluid.molten.pigiron
 TConstruct:fluid.molten.shiny
 TConstruct:fluid.molten.silver
 TConstruct:fluid.molten.steel
@@ -1569,13 +1570,11 @@ TConstruct:battlesign
 TConstruct:binding
 TConstruct:blankPattern
 TConstruct:blood.channel
-TConstruct:bootsExo
 TConstruct:bootsWood
 TConstruct:bowstring
 TConstruct:broadAxeHead
 TConstruct:broadsword
 TConstruct:buckets
-TConstruct:chestplateExo
 TConstruct:chestplateWood
 TConstruct:chisel
 TConstruct:chiselHead
@@ -1610,6 +1609,7 @@ TConstruct:fluid.molten.lead
 TConstruct:fluid.molten.manyullyn
 TConstruct:fluid.molten.nickel
 TConstruct:fluid.molten.obsidian
+TConstruct:fluid.molten.pigiron
 TConstruct:fluid.molten.shiny
 TConstruct:fluid.molten.silver
 TConstruct:fluid.molten.steel
@@ -1625,13 +1625,11 @@ TConstruct:hatchet
 TConstruct:hatchetHead
 TConstruct:heartCanister
 TConstruct:heavyPlate
-TConstruct:helmetExo
 TConstruct:helmetWood
 TConstruct:jerky
 TConstruct:knapsack
 TConstruct:knifeBlade
 TConstruct:largeSwordBlade
-TConstruct:leggingsExo
 TConstruct:leggingsWood
 TConstruct:liquid.blood
 TConstruct:liquid.glue
