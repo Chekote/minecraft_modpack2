@@ -291,8 +291,6 @@ Railcraft:tile.railcraft.wall.beta
 Railcraft:tile.railcraft.worldlogic
 RedLogic:redlogic.arrayCells
 RedLogic:redlogic.button
-RedLogic:redlogic.chip
-RedLogic:redlogic.compiledCircuit
 RedLogic:redlogic.customCircuitBlock
 RedLogic:redlogic.gates
 RedLogic:redlogic.lampCubeDecorative
@@ -303,8 +301,6 @@ RedLogic:redlogic.lampCubeOn
 RedLogic:redlogic.lampNonCube
 RedLogic:redlogic.machineBlock
 RedLogic:redlogic.plainBlock
-RedLogic:redlogic.schematic
-RedLogic:redlogic.screwdriver
 RedLogic:redlogic.wire
 TConstruct:Armor.DryingRack
 TConstruct:CastingChannel
