@@ -87,6 +87,12 @@ In addition to covering the block with almost anything, you can also overlay any
 
 Donate: Not Available, [Download](http://adf.ly/qztlJ), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1790919-17forge-carpenters-blocks-v314), Reddit: Not Available, [Source](https://github.com/Mineshopper/carpentersblocks), [Spotlight](https://www.youtube.com/watch?v=MdPj-SwkKfw), Twitter: Not Available
 
+##Chocolate Quest 1.7.10 Beta 2 by Chocolatin
+
+Adds a whole bunch of new dungeon types to various biomes in the over world. These dungeons are far more complex than the simple room dungeons in Vanilla Minecraft, and contain all kinds of custom creatures, loot and traps.
+
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alarrizabalaga@gmail.com&lc=US&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest), [Download](http://dl.dropboxusercontent.com/s/cqtr7f50rkmlwru/ChocolateQuest_1.7.10-BETA2.zip), IRC: Not Available, License: See Minecraft Forum - Copyright section, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278075-chocolate-quest-mods-for-the-adventurers), Reddit: Not Available, [Source](Not Available), Spotlight: Not Available, Twitter: Not Available
+
 ##Dynamic Lights 1.3.5 by AtomicStryker
 
 Improves Minecrafts lighting system by allowing moving objects to cast light. For example, holding a torch in your hand, creatures and enemies that are on fire, magical armor, etc. Note that this is a visual effect only, and does not prevent monsters from spawning.
