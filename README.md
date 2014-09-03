@@ -119,6 +119,25 @@ AlexDGr8r had seen previous Meteor mods before with some of the features he has 
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=54TGB3BD295AA&amp;amp;lc=US&amp;amp;item_name=AlexDGr8r%20%2d%20Falling%20Meteors%20Mod%20Developer&amp;amp;currency_code=USD&amp;amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted), [Download](http://curse.com/mc-mods/minecraft/falling-meteors-mod/784719), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/989113-172sspsmpfalling-meteors-modv212/), Reddit: Not Available, [Source](http://alexdgr8r.github.io/MeteorsMod/), [Spotlight](https://www.youtube.com/watch?v=wL0PM_xnyl0), [Twitter](https://twitter.com/AlexDGr8r)
 
+##Galacticraft 3.0.1.170 by MicDoodle8
+
+Galacticraft is a mod that lets you travel to new planets with your own spaceship, explore dungeons, and build a space stations with friends. It also includes an API that allows developers to add their own solar systems.
+
+Features
+
+* Travel throughout the solar system!
+* Create and customize your very own spaceship (customization coming soon)!
+* Explore new planets and moons!
+* Electrical and Oxygen System!
+* SMP Support - Explore with your friends!
+* Multiple language support!
+* New mobs!
+* Lots of new items and blocks!
+* Dungeons (coming soon)!
+* API to allow modders to add more content, including whole new solar systems and galaxies!
+
+Donate: Paypal(https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=mitchpetrie29@gmail.com&lc=US&item_name=Galacticraft&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest)/[Patreon}(http://www.patreon.com/micdoodle8), [Download](http://micdoodle8.com/mods/galacticraft/downloads), [IRC](http://webchat.esper.net/?channels=galacticraft), [License](https://github.com/micdoodle8/Galacticraft/blob/master/COPYING), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287888-galacticraft-3-open-source-4-100-000-downloads), Reddit: Not Available, [Source](https://github.com/micdoodle8/Galacticraft), [Spotlight](https://www.youtube.com/watch?v=IolGDRokUW8) (old version), [Twitter](https://twitter.com/micdoodle8)
+
 ##Gravestone Mod 2.9.3 by NightKosh
 
 This mod adds a gravestone to the game, which "spawns" at player/villager/dog/cat death. Also this mod generates cemeteries in some villages, and the "Wither's catacombs". This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a "Wither Boss" at the end.
