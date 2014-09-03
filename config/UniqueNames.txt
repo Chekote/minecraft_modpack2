@@ -257,10 +257,7 @@ Mystcraft:BlockLinkModifier
 Mystcraft:BlockStarFissure
 Mystcraft:LinkPortal
 Mystcraft:WritingDesk
-Railcraft:tile.block.firestone.recharge
-Railcraft:tile.railcraft.block.anvil
-Railcraft:tile.railcraft.block.fluid.creosote
-Railcraft:tile.railcraft.block.fluid.steam
+Railcraft:tile.railcraft.anvil
 Railcraft:tile.railcraft.brick.abyssal
 Railcraft:tile.railcraft.brick.bleachedbone
 Railcraft:tile.railcraft.brick.bloodstained
@@ -271,8 +268,10 @@ Railcraft:tile.railcraft.brick.quarried
 Railcraft:tile.railcraft.brick.sandy
 Railcraft:tile.railcraft.cube
 Railcraft:tile.railcraft.detector
+Railcraft:tile.railcraft.firestone.recharge
+Railcraft:tile.railcraft.fluid.creosote
+Railcraft:tile.railcraft.fluid.steam
 Railcraft:tile.railcraft.glass
-Railcraft:tile.railcraft.hidden
 Railcraft:tile.railcraft.machine.alpha
 Railcraft:tile.railcraft.machine.beta
 Railcraft:tile.railcraft.machine.gamma
@@ -280,6 +279,7 @@ Railcraft:tile.railcraft.ore
 Railcraft:tile.railcraft.post
 Railcraft:tile.railcraft.post.metal
 Railcraft:tile.railcraft.post.metal.platform
+Railcraft:tile.railcraft.residual.heat
 Railcraft:tile.railcraft.signal
 Railcraft:tile.railcraft.slab
 Railcraft:tile.railcraft.stair
@@ -1463,6 +1463,7 @@ Railcraft:fluid.steam.bottle
 Railcraft:fuel.coke
 Railcraft:ingot
 Railcraft:nugget
+Railcraft:part.bleached.clay
 Railcraft:part.circuit
 Railcraft:part.gear
 Railcraft:part.plate
@@ -1474,10 +1475,7 @@ Railcraft:part.tie
 Railcraft:routing.table
 Railcraft:routing.ticket
 Railcraft:routing.ticket.gold
-Railcraft:tile.block.firestone.recharge
-Railcraft:tile.railcraft.block.anvil
-Railcraft:tile.railcraft.block.fluid.creosote
-Railcraft:tile.railcraft.block.fluid.steam
+Railcraft:tile.railcraft.anvil
 Railcraft:tile.railcraft.brick.abyssal
 Railcraft:tile.railcraft.brick.bleachedbone
 Railcraft:tile.railcraft.brick.bloodstained
@@ -1488,8 +1486,10 @@ Railcraft:tile.railcraft.brick.quarried
 Railcraft:tile.railcraft.brick.sandy
 Railcraft:tile.railcraft.cube
 Railcraft:tile.railcraft.detector
+Railcraft:tile.railcraft.firestone.recharge
+Railcraft:tile.railcraft.fluid.creosote
+Railcraft:tile.railcraft.fluid.steam
 Railcraft:tile.railcraft.glass
-Railcraft:tile.railcraft.hidden
 Railcraft:tile.railcraft.machine.alpha
 Railcraft:tile.railcraft.machine.beta
 Railcraft:tile.railcraft.machine.gamma
@@ -1497,6 +1497,7 @@ Railcraft:tile.railcraft.ore
 Railcraft:tile.railcraft.post
 Railcraft:tile.railcraft.post.metal
 Railcraft:tile.railcraft.post.metal.platform
+Railcraft:tile.railcraft.residual.heat
 Railcraft:tile.railcraft.signal
 Railcraft:tile.railcraft.slab
 Railcraft:tile.railcraft.stair
@@ -1509,7 +1510,7 @@ Railcraft:tile.railcraft.worldlogic
 Railcraft:tool.crowbar
 Railcraft:tool.crowbar.magic
 Railcraft:tool.crowbar.reinforced
-Railcraft:tool.mag.glass
+Railcraft:tool.magnifying.glass
 Railcraft:tool.signal.tuner
 Railcraft:tool.steel.axe
 Railcraft:tool.steel.hoe
