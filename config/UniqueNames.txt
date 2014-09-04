@@ -465,6 +465,9 @@ Thaumcraft:blockTaintFibres
 Thaumcraft:blockTube
 Thaumcraft:blockWarded
 Thaumcraft:blockWoodenDevice
+TwilightForest:tile.AuroraDoubleSlab
+TwilightForest:tile.AuroraPillar
+TwilightForest:tile.AuroraSlab
 TwilightForest:tile.DarkLeaves
 TwilightForest:tile.TFAuroraBrick
 TwilightForest:tile.TFBossSpawner
@@ -2089,6 +2092,9 @@ TwilightForest:item.yetiBoots
 TwilightForest:item.yetiHelm
 TwilightForest:item.yetiLegs
 TwilightForest:item.yetiPlate
+TwilightForest:tile.AuroraDoubleSlab
+TwilightForest:tile.AuroraPillar
+TwilightForest:tile.AuroraSlab
 TwilightForest:tile.DarkLeaves
 TwilightForest:tile.TFAuroraBrick
 TwilightForest:tile.TFBossSpawner
