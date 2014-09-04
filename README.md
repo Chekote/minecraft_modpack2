@@ -21,7 +21,7 @@ It also now adds Thaumcraft's Native Clusters for every possible ore! As soon as
 
 Donate: Not Available, [Download](http://www.curse.com/mc-mods/minecraft/221863-another-one-bites-the-dust/2213162), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/2319703-172-aobd-2-process-all-the-ores-v202/), Reddit: Not Available, Source: Not Available, Spotlight: Not Avialable, [Twitter](https://twitter.com/ganymedes01)
 
-##Arcane Scrolls 3.1.2.24 by Duke605
+##Arcane Scrolls 3.2.1.26 by Duke605
 
 Adds Scrolls to you to your game that give you different abilities. There are 4 categories, Utility(Green), Offensive(Red),  Defensive(Blue), Special(Purple).
 
