@@ -119,7 +119,7 @@ AlexDGr8r had seen previous Meteor mods before with some of the features he has 
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=54TGB3BD295AA&amp;amp;lc=US&amp;amp;item_name=AlexDGr8r%20%2d%20Falling%20Meteors%20Mod%20Developer&amp;amp;currency_code=USD&amp;amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted), [Download](http://curse.com/mc-mods/minecraft/falling-meteors-mod/784719), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/989113-172sspsmpfalling-meteors-modv212/), Reddit: Not Available, [Source](http://alexdgr8r.github.io/MeteorsMod/), [Spotlight](https://www.youtube.com/watch?v=wL0PM_xnyl0), [Twitter](https://twitter.com/AlexDGr8r)
 
-##Galacticraft 3.0.1.170 by MicDoodle8
+##Galacticraft 3.0.2.190 by MicDoodle8
 
 Galacticraft is a mod that lets you travel to new planets with your own spaceship, explore dungeons, and build a space stations with friends. It also includes an API that allows developers to add their own solar systems.
 
