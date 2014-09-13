@@ -155,11 +155,11 @@ This client mod allows you to easily manage your inventory, in both single playe
 
 Donate: Not Available, [Download](http://www.curse.com/mc-mods/minecraft/223094-inventory-tweaks/2210792), [IRC](http://webchat.esper.net/?channels=inventorytweaks), [License](https://github.com/mkalam-alami/inventory-tweaks/blob/develop/LICENSE.md), [Minecraft Forum](http://www.minecraftforum.net/topic/1720872-172-inventory-tweaks-157-march-14), Reddit: Not Available, [Source](https://github.com/Kobata/inventory-tweaks), [Spotlight](https://www.youtube.com/watch?v=1of4502m_c8), Twitter: Not Available
 
-##Iron Chests 6.0.51.734 by cpw
+##Iron Chests 6.0.56.739 by cpw
 
 Adds many tiered chests, each of which are progressively more expensive to make, but offer a commensurate increase in storage capacity.
 
-Donate: Not Available, [Download](http://files.minecraftforge.net/maven/cpw/mods/ironchest/1.7.10-6.0.51.734/ironchest-1.7.10-6.0.51.734-universal.jar), IRC: Not Available, [License](http://www.gnu.org/copyleft/gpl.html), [Minecraft Forum](http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update), Reddit: Not Available, [Source](https://github.com/cpw/ironchest), [Spotlight](https://www.youtube.com/watch?v=_l-Y3buIH18), [Twitter](https://twitter.com/minecraftcpw)
+Donate: Not Available, [Download](http://files.minecraftforge.net/maven/cpw/mods/ironchest/1.7.10-6.0.56.739/ironchest-1.7.10-6.0.56.739-universal.jar), IRC: Not Available, [License](http://www.gnu.org/copyleft/gpl.html), [Minecraft Forum](http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update), Reddit: Not Available, [Source](https://github.com/cpw/ironchest), [Spotlight](https://www.youtube.com/watch?v=_l-Y3buIH18), [Twitter](https://twitter.com/minecraftcpw)
 
 ##Mo' Creatures 6.2.0 Dev R3 by DrZhark
 
