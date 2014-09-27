@@ -144,6 +144,12 @@ This mod adds a gravestone to the game, which "spawns" at player/villager/dog/ca
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9EC38X4BQSQCA), [Download](http://adf.ly/3890646/gravestone-294-1710), IRC: Not Available, [License](http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [Minecraft Forum](http://www.minecraftforum.net/topic/1711328-172-smp-gravestone-mod-v283), Reddit: Not Available, [Source](https://github.com/NightKosh/GraveStone-mod), [Spotlight](https://www.youtube.com/watch?v=jPT83W-HFwA), [Twitter](https://twitter.com/NightKosh)
 
+##Hats 4.0.1 by iChun
+
+This mod adds an Aesthetic feature onto players, NPCs and ceatures, namely Hats!
+
+[Donate](http://ichun.us/mods/hats/), [Download](http://adf.ly/quuDq), [IRC](http://webchat.esper.net/?channels=iChun), License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1754665-/), Reddit: Not Available, [Source](https://github.com/iChun/Hats), [Spotlight](https://www.youtube.com/watch?v=5WoDn2V-pFA), [Twitter](https://twitter.com/ohaiiChun)
+
 ##Inventory Tweaks 1.59-dev-152 by Kobata
 
 This client mod allows you to easily manage your inventory, in both single player and multiplayer. It works out of the box, and will make you gain a massive amount of time!
