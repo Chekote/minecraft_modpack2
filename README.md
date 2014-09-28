@@ -33,6 +33,12 @@ Adds the ability to construct ships and airships out of almost any block, and tu
 
 Donate: Not Available, [Download](http://goo.gl/kSOVhx), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1857899-172-164forge-archimedes-ships-v15-advanced-ship-creation), Reddit: Not Available, Source: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=RhiybUoIFsk#t=530), Twitter: Not Available
 
+##Ars Magica 1.4.0.005 by Mithion
+
+A look into what Minecraft could become when you add a splash of magic...Ars Magica is a mod about casting powerful spells, fighting bosses, and having fun with magic! It features a unique spell creation system where you can create any spell you can imagine!
+
+[Donate](http://www.patreon.com/Mithion), [Download](https://www.dropbox.com/s/jk53ptxs2an7zku/1.7.10_AM2_1.4.0.005.jar?dl=0), [IRC](http://webchat.esper.net/?channels=Mithion), License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292222-ars-magica-2-version-1-4-0-005-updated-september), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=_rTtTye1NkU), [Twitter](https://twitter.com/Mithion13)
+
 ##Better Horses 1.0.0 by TheHippoMaster21
 
 Everyone loves horses! But sometimes, do you ever feel like some things could be improved? Do you feel like the horses' animations and behaviors seem a bit, might I say, too blocky? Don't you want smoother more horse-like animations? Then this is the mod for you!
