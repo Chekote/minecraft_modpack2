@@ -309,13 +309,13 @@ VoxelMap is an in-game minimap mod with a few nice features.  It displays waypoi
 
 Donate: Not Available, [Download](http://www.planetminecraft.com/mod/zans-minimap), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1116564-164-162-mamiyaotarus-mods-voxelmap-chatbubbles-etc), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=7gRnUCw61Ww), Twitter: Not Available
 
-##What am I looking at (Waila) 1.5.4 by ProfMobius
+##What am I looking at (Waila) 1.5.4a by ProfMobius
 
 Waila is an extension for NEI. It will show in the tooltip what mod an item is from. Since the tooltip contains the mod name, you can also easly parse items per mods. But that's not all ! Leveraging an extended NEI HUD, it is also capable of showing the name of blocks and mods ingame, right on top of your screen. If this is not enough, it comes with a few integrated modules to show internal information of some specific blocks. For now, BC tanks have been implemented (shows the content, capacity and amount of fluid) and IC2 machines (shows the In/out voltage).
 
 How to use: It's pretty much automatic. Although you can bring up the Waila menu with numpad 0, and enable / disable it with numpad 1.
 
-[Donate](http://www.patreon.com/profmobius), [Download](http://minecraft.curseforge.com/mc-mods/73488-waila/files/2214104/download), [License](http://www.apache.org/licenses/LICENSE-2.0.html), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1846244-172-waila-152), Reddit: Not Available, [Source](https://bitbucket.org/ProfMobius/waila), [Spotlight](https://www.youtube.com/watch?v=y1wN8XPgRU4), [Twitter](https://twitter.com/ProfMobius)
+[Donate](http://www.patreon.com/profmobius), [Download](http://curse.com/mc-mods/minecraft/waila/2214202), [License](http://www.apache.org/licenses/LICENSE-2.0.html), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1846244-172-waila-152), Reddit: Not Available, [Source](https://bitbucket.org/ProfMobius/waila), [Spotlight](https://www.youtube.com/watch?v=y1wN8XPgRU4), [Twitter](https://twitter.com/ProfMobius)
 
 ##Witchery 0.20.0 by Emoniph
 
