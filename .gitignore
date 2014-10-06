@@ -12,6 +12,7 @@ libraries/*
 logs/*
 mods/carpentersblocks/CarpentersBlocksCachedResources.zip
 mods/ruins_log.txt
+moreplayermodels/playerdata/*
 reports/*
 resourcepacks/*
 saves/*

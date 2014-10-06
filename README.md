@@ -207,6 +207,19 @@ Adds a Saw that allows you to cut most Vanilla Minecraft blocks into smaller pie
 
 Donate: Not Available, [Download](http://immibis.com/mcmoddl/files/immibis-microblocks-59.0.3.jar), [IRC](http://chat.mibbit.com/?channel=%23minecraftforge&server=irc.esper.net), [License](http://opensource.org/licenses/MIT), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=yWx2_aBNT6c), [Twitter](https://twitter.com/immibis)
 
+##More Player Models 1.7.10b by Noppes
+
+This mod adds the ability to customize the look of your player model in a large variety of ways.
+
+* A character creation screen(F12) to change your model
+* The ability to change into any mob
+* More animations(/sit, /dance, /wave, /sleep, /hug, /cry, /angry, /bow, /wag, /crawl)
+* Chat bubbles
+* The first item in your bar show on your back
+* Tooltip about the item you are holding
+
+Donate: Not Available, [Download](http://www.kodevelopment.nl/minecraft/moreplayermodels/downloads/), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291730-more-player-models-2-adds-a-character-creation), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=_F4ZBKOADyE#t=41), [Twitter](https://twitter.com/Noppes_)
+
 ##Mutant Creatures 1.4.5 by TheHippoMaster21
 
 Gunpowder... Spice... And everything nice. These were the ingredients chosen to create the perfect pet creatures. But Professor HippoMaster accidentally added an extra ingredient to the concoction... Chemical X! Thus the Mutant Creatures were born!
