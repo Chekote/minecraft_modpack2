@@ -99,6 +99,12 @@ Adds a whole bunch of new dungeon types to various biomes in the over world. The
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alarrizabalaga@gmail.com&lc=US&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest), [Download](http://dl.dropboxusercontent.com/s/cqtr7f50rkmlwru/ChocolateQuest_1.7.10-BETA2.zip), IRC: Not Available, License: See Minecraft Forum - Copyright section, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278075-chocolate-quest-mods-for-the-adventurers), Reddit: Not Available, [Source](Not Available), Spotlight: Not Available, Twitter: Not Available
 
+##ComputerCraft 1.64 by Dan200
+
+ComputerCraft is a mod created for Minecraft by dan200 that adds Computers, Monitors, Modems, Turtles and more! ComputerCraft's Computers and Turtles are programmed with the Lua programming language. You can use Redstone, RedPower or even MineFactory Reloaded alongside with your devices for the best experience.
+
+[Donate](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=UKPoQPHv0tC39ng-o-DxERvn5CX9ZntxrwDBAp2SscnLX2fbnByvM-R7Z6O&dispatch=5885d80a13c0db1f8e263663d3faee8dbd0a2170b502f343d92a90377a9956d7), [Download](http://www.computercraft.info/download/), [IRC](http://webchat.esper.net/?channels=computercraft), [License](), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279741-1-6-4-computercraft), [Reddit](http://www.reddit.com/r/ComputerCraft/), Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=wrUHUhfCY5A), [Twitter](https://twitter.com/DanTwoHundred)
+
 ##Dynamic Lights 1.3.5 by AtomicStryker
 
 Improves Minecrafts lighting system by allowing moving objects to cast light. For example, holding a torch in your hand, creatures and enemies that are on fire, magical armor, etc. Note that this is a visual effect only, and does not prevent monsters from spawning.
