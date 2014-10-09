@@ -26,9 +26,9 @@ chance_for_site_nether=15
 disableRuinSpawnCoordsLogging=true
 
 # minimum distance a template must have from instances of itself
-templateInstancesMinDistance=256
+templateInstancesMinDistance=1024
 # minimum distance a template must have from any other template
-anyRuinsMinDistance=64
+anyRuinsMinDistance=256
 # dimension IDs whitelisted for ruins spawning, add custom dimensions IDs here as needed
 allowedDimensions=0,1,-1
 
