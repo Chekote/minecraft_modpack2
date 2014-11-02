@@ -300,11 +300,11 @@ Donate: Not Available, [Download](http://www.mediafire.com/?wsocz6pzfpkwhtr), IR
 
 Donate: [Kihira](http://www.patreon.com/kihira), [TTFTCUTS]](https://www.patreon.com/TTFTCUTS), [Download](http://curse.com/mc-mods/minecraft/223584-tails/2214676), [IRC](http://webchat.esper.net/?nick=&channels=kihira), License: See FAQ on Minecraft Forum page, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2189718-1-1-1-now-with-movement-animations-tails-a-bunch), Reddit: Not Available, Source: Not Available, Spotlight: Not Available, Twitter: [Kihira](https://twitter.com/KitsuneKihira), [TTFTCUTS](https://twitter.com/TTFTCUTS)
 
-##Thaumcraft 4.2.1.3 by Azanor
+##Thaumcraft 4.2.1.4 by Azanor
 
 Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker. This is what this mod is all about - drawing magic from physical objects in the form of Essentia and reshaping it to perform miracles.
 
-[Donate](http://adf.ly/1311628/thaumcraft-4), [Download](http://adf.ly/1311628/thaumcraft-4), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/2011841-thaumcraft-41114-updated-2052014), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=u_xJj356v28&feature=kp), [Twitter](https://twitter.com/Azanor1)
+[Donate](http://adf.ly/1311628/thaumcraft-4), [Download](http://adf.ly/1311628/thaumcraft-4), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/2011841), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=u_xJj356v28&feature=kp), [Twitter](https://twitter.com/Azanor1)
 
 ##Tinkers Construct 1.6.0d40 by mDiyo
 
