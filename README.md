@@ -264,7 +264,7 @@ Add many redstone related blocks, such as various switches and logic gates, bund
 
 Donate: Not Available, [Download](http://immibis.com/mcmoddl/files/redlogic-59.0.3.jar), [IRC](http://chat.mibbit.com/?channel=%23minecraftforge&server=irc.esper.net), [License](http://opensource.org/licenses/MIT), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=ssVnsYf1bkI), [Twitter](https://twitter.com/immibis)
 
-##Ruins 13.8 by AtomicStryker
+##Ruins 14.1 by AtomicStryker
 
 Ruins is a mod that spawns Structures in your Minecraft worlds upon generation, similar to Villages or Strongholds. Every Structure is defines by a template and configured to spawn under specific conditions, and all of that can be changed by you!
 
