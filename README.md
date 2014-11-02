@@ -199,6 +199,10 @@ Adds many tiered chests, each of which are progressively more expensive to make,
 
 Donate: Not Available, [Download](http://files.minecraftforge.net/IronChests2/), IRC: Not Available, [License](http://www.gnu.org/copyleft/gpl.html), [Minecraft Forum](http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update), Reddit: Not Available, [Source](https://github.com/cpw/ironchest), [Spotlight](https://www.youtube.com/watch?v=_l-Y3buIH18), [Twitter](https://twitter.com/minecraftcpw)
 
+##Jammy Furniture Mod by Jammy780 & Zuxelus
+
+Donate: Not Available, [Download](https://bitbucket.org/Zuxelus/jammy_furniture_mod/downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282205-v4-5-1-6-2-forge-smp-jammy-furniture-mod), Reddit: Not Available, [Source](https://bitbucket.org/Zuxelus/jammy_furniture_mod/src), [Spotlight](http://www.youtube.com/watch?v=V4oRFOuJDZ8), Twitter: [Jammy780](https://twitter.com/Jammy780), [Zuxelus](https://twitter.com/Zuxelus), [Website](http://www.jammy780.co.uk/jfm)
+
 ##Mo' Creatures 6.2.0 Dev R3 by DrZhark
 
 This Mod adds a huge number of new passive and hostile creatures to the game.
