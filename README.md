@@ -272,11 +272,11 @@ Have you ever wished minecarts and rails had received a bit more attention durin
 
 [Donate](http://www.patreon.com/SpaceToad), [Download](http://adf.ly/sXkHF), IRC: Not Available, [License](http://railcraft.wikispaces.com/License+(Info)), [Minecraft Forum](http://www.minecraftforum.net/topic/701990-162-railcraft-8000-forge), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=c0Lhh00ZmuA), [Twitter](https://twitter.com/SpaceToadCraft)
 
-##RedLogic 59.0.3 by Immibis
+##RedLogic 59.0.6 by Immibis
 
 Add many redstone related blocks, such as various switches and logic gates, bundled cables, and lighting.
 
-Donate: Not Available, [Download](http://immibis.com/mcmoddl/files/redlogic-59.0.3.jar), [IRC](http://chat.mibbit.com/?channel=%23minecraftforge&server=irc.esper.net), [License](http://opensource.org/licenses/MIT), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=ssVnsYf1bkI), [Twitter](https://twitter.com/immibis)
+Donate: Not Available, [Download](http://immibis.com/mcmoddl/), [IRC](http://chat.mibbit.com/?channel=%23minecraftforge&server=irc.esper.net), [License](http://opensource.org/licenses/MIT), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=ssVnsYf1bkI), [Twitter](https://twitter.com/immibis)
 
 ##Ruins 14.1 by AtomicStryker
 
