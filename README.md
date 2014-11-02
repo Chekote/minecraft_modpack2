@@ -166,7 +166,13 @@ This mod adds a gravestone to the game, which "spawns" at player/villager/dog/ca
 
 This mod adds an Aesthetic feature onto players, NPCs and ceatures, namely Hats!
 
-[Donate](http://ichun.us/mods/hats/), [Download](http://adf.ly/quuDq), [IRC](http://webchat.esper.net/?channels=iChun), License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1754665-/), Reddit: Not Available, [Source](https://github.com/iChun/Hats), [Spotlight](https://www.youtube.com/watch?v=5WoDn2V-pFA), [Twitter](https://twitter.com/ohaiiChun)
+[Donate](http://ichun.us/mods/hats/), [Download](http://adf.ly/quuDr), [IRC](http://webchat.esper.net/?channels=iChun), License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1754665-/), Reddit: Not Available, [Source](https://github.com/iChun/Hats), [Spotlight](https://www.youtube.com/watch?v=5WoDn2V-pFA), [Twitter](https://twitter.com/ohaiiChun)
+
+##HatStand 4.0.0 by iChun
+
+This mod adds a single block item, a Hat Stand. You can use this to display the Hats that you have collected so far.
+
+[Donate](http://ichun.us/mods/hats/), [Download](http://adf.ly/quuDq), [IRC](http://webchat.esper.net/?channels=iChun), License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1754665-/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=5WoDn2V-pFA), [Twitter](https://twitter.com/ohaiiChun)
 
 ##Infernal Mobs 1.5.9 by AtomicStryker
 
