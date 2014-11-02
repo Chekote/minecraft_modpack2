@@ -234,7 +234,7 @@ Add Chemical X to the game, a mutinagenic that can be thrown at most Vanilla mob
 
 Donate: Not Available, [Download](http://goo.gl/DJXRz), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1336132-172spmp-mutant-creatures-updated-v145/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=novGZ1mCqGQ), Twitter: Not Available
 
-##MystCraft 0.10.14.0 by XCompWiz
+##MystCraft 0.11.0.0 by XCompWiz
 
 Adds the ability to generate new dimensions within the game from various properties that you discover while exploring Minecraft. Properties are discovered as pages, which you then combine into books, which can be used to transport you to the dimension that the book describes.
 
