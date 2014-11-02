@@ -324,7 +324,7 @@ This is a revision and extension of the outstanding Underground Biomes mod, orig
 
 Donate: Not Available, [Download](http://minecraft.curseforge.com/mc-mods/72744-undergroundbiomesconstructs/files/2210583/download), IRC: Not Available, [License](http://wiki.creativecommons.org/Public_domain), [Minecraft Forum](http://www.minecraftforum.net/topic/2314333-172-164-underground-biomes-constructs), Reddit: Not Available, [Source](https://github.com/Zeno410/UndergroundBiomes), [Spotlight](https://www.youtube.com/watch?v=pGCd0JYDNfM), Twitter: [Exterminator Jeff](https://twitter.com/ExterminatorJef), [Grom PE](https://twitter.com/Grom_PE), [Zeno410](https://twitter.com/Zeno410)
 
-##Universal Electricity 4.0.0.78 by Calclavia
+##Universal Electricity 4.0.0.88 by Calclavia
 
 Universal Electricity is a Minecraft modding library that provides an easy, flexible energy framework and compatibility bridges between various energy systems in Minecraft.
 
