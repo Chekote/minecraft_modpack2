@@ -306,11 +306,11 @@ Thaumaturgy is the capability of a magician to work miracles. A practitioner of 
 
 [Donate](http://adf.ly/1311628/thaumcraft-4), [Download](http://adf.ly/1311628/thaumcraft-4), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/2011841), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=u_xJj356v28&feature=kp), [Twitter](https://twitter.com/Azanor1)
 
-##Tinkers Construct 1.6.0d40 by mDiyo
+##Tinkers Construct 1.7.1c by Boni
 
 Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever. Any world generation included in the mod is more efficient, but not required to progress.
 
-[Donate](http://www.patreon.com/mDiyo), [Download](http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct/files/2212812/download), [IRC](http://webchat.esper.net/?channels=TinkersConstruct), [License](http://creativecommons.org/licenses/by/3.0/), [Minecraft Forum](http://www.minecraftforum.net/topic/1659892-164tinkers-construct/), Reddit: Not Available, [Source](https://github.com/SlimeKnights/TinkersConstruct), [Spotlight](https://www.youtube.com/watch?v=FtZQjLxdW6s), [Twitter](https://twitter.com/Merdiwen)
+[Donate](http://www.patreon.com/mDiyo), [Download](http://minecraft.curseforge.com/mc-mods/74072-tinkers-construct/files/2217567/download), [IRC](http://webchat.esper.net/?channels=TinkersConstruct), [License](http://creativecommons.org/licenses/by/3.0/), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638), Reddit: Not Available, [Source](https://github.com/SlimeKnights/TinkersConstruct), [Spotlight](https://www.youtube.com/watch?v=FtZQjLxdW6s), [Twitter](https://twitter.com/bonusboni)
 
 ##Treecapitator 2.0.3 by bspkrs
 
