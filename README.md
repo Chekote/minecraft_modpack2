@@ -79,11 +79,11 @@ Blood Magic is an arcane art that is practiced by mages who attempt to gather a 
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J7SNY7L82PQ82), [Download](http://minecraft.curseforge.com/mc-mods/224791-blood-magic), IRC: Not Available, [License](http://creativecommons.org/licenses/by/4.0/), [Minecraft Forum](http://www.minecraftforum.net/topic/1899223-172164-blood-magic-v101g-updated-jun-10/), Reddit: Not Available, [Source](https://github.com/WayofTime/BloodMagic), [Spotlight](https://www.youtube.com/watch?v=TKK2Eu-jsJM), [Twitter](https://twitter.com/WayofTime)
 
-##BuildCraft 6.1.5 by Covert Jaguar
+##BuildCraft 6.2.2 by Covert Jaguar
 
 Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!
 
-[Donate](http://www.patreon.com/SpaceToad), [Download](http://www.mod-buildcraft.com/releases/BuildCraft/6.0.18/buildcraft-6.0.18.jar), IRC: Not Available, [License](http://www.mod-buildcraft.com/MMPL-1.0.txt), [Minecraft Forum](http://www.minecraftforum.net/topic/682920-172-buildcraft-nextgen-607-blueprints-pipes-quarry-auto-crafting-building-engines), Reddit: Not Available, [Source](https://github.com/BuildCraft/BuildCraft), [Spotlight](), [Twitter](https://twitter.com/SpaceToadCraft)
+[Donate](http://www.patreon.com/SpaceToad), [Download](http://www.mod-buildcraft.com/download/), IRC: Not Available, [License](http://www.mod-buildcraft.com/MMPL-1.0.txt), [Minecraft Forum](http://www.minecraftforum.net/topic/682920), Reddit: Not Available, [Source](https://github.com/BuildCraft/BuildCraft), [Spotlight](https://www.youtube.com/watch?v=gsORSLoWvxc), [Twitter](https://twitter.com/SpaceToadCraft)
 
 ##Carpenters Blocks 3.3.0.1 by Mineshopper
 
