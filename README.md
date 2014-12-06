@@ -85,13 +85,13 @@ Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!
 
 [Donate](http://www.patreon.com/SpaceToad), [Download](http://www.mod-buildcraft.com/download/), IRC: Not Available, [License](http://www.mod-buildcraft.com/MMPL-1.0.txt), [Minecraft Forum](http://www.minecraftforum.net/topic/682920), Reddit: Not Available, [Source](https://github.com/BuildCraft/BuildCraft), [Spotlight](https://www.youtube.com/watch?v=gsORSLoWvxc), [Twitter](https://twitter.com/SpaceToadCraft)
 
-##Carpenters Blocks 3.3.0.1 by Mineshopper
+##Carpenters Blocks 3.3.3 by Mineshopper
 
 This mod adds slopes and a custom variety of vanilla-inspired blocks to the game!  They may look like ordinary frames or wooden blocks in their base form, but they can actually be covered with nearly any block in the game.  The frame will inherit the cover block's texture and most of it's other properties including flammability, explosion resistance, and more.
 
 In addition to covering the block with almost anything, you can also overlay any of the blocks with grass, snow, hay, web, mycelium or vine!  Still not convinced?  Craft the Carpenter's Chisel and carve elaborate designs into any of the blocks.  Custom patterns can easily be added.
 
-Donate: Not Available, [Download](http://www.carpentersblocks.com/downloads.html), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1790919-17forge-carpenters-blocks-v314), Reddit: Not Available, [Source](https://github.com/Mineshopper/carpentersblocks), [Spotlight](https://www.youtube.com/watch?v=MdPj-SwkKfw), Twitter: Not Available
+Donate: Not Available, [Download](http://www.carpentersblocks.com/downloads.html), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1790919), Reddit: Not Available, [Source](https://github.com/Mineshopper/carpentersblocks), [Spotlight](https://www.youtube.com/watch?v=MdPj-SwkKfw), Twitter: Not Available
 
 ##Chocolate Quest 1.7.10 Beta 2 by Chocolatin
 
