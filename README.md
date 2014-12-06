@@ -65,11 +65,11 @@ Adds various different furniture and decorative items, which are not only useful
 
 [Donate](http://www.bibliocraftmod.com/?page_id=352), [Download](http://www.bibliocraftmod.com/?page_id=48), IRC: Not Available, [License](http://www.bibliocraftmod.com/?page_id=57), [Minecraft Forum](http://www.minecraftforum.net/topic/1680480), Reddit: Not Available, [Source](https://github.com/Nuchaz/BiblioCraft), [Spotlight](https://www.youtube.com/watch?v=rjXLfssEtoM), [Twitter](https://twitter.com/Mozzerello)
 
-##Biomes 'o' Plenty 2.1.0.1004 by TheAdubbz
+##Biomes 'o' Plenty 2.1.0.1009 by TheAdubbz
 
 Adds a huge amount of additional biomes, a few creatures and one dimension to the game.
 
-[Donate](http://www.reddit.com/r/biomesoplenty/wiki/donate), [Download](http://files.minecraftforge.net/BiomesOPlenty/), [License](http://creativecommons.org/licenses/by-nc-nd/4.0), [IRC](http://webchat.esper.net/?nick=&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;channels=biomesoplenty), [Minecraft Forum](http://www.minecraftforum.net/topic/1495041-172-forge-biomes-o-plenty-were-back), [Reddit](http://www.reddit.com/r/biomesoplenty), [Source](https://github.com/Glitchfiend/BiomesOPlenty), [Spotlight](https://www.youtube.com/watch?v=Qnl7MaSCiRg), Twitter: [Forstride](https://twitter.com/Forstride) & [TheAdubbz](https://twitter.com/TheAdubbz).
+[Donate](http://www.reddit.com/r/biomesoplenty/wiki/donate), [Download](http://files.minecraftforge.net/BiomesOPlenty/), [License](http://creativecommons.org/licenses/by-nc-nd/4.0), [IRC](http://webchat.esper.net/?nick=&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;channels=biomesoplenty), [Minecraft Forum](http://www.minecraftforum.net/topic/1495041), [Reddit](http://www.reddit.com/r/biomesoplenty), [Source](https://github.com/Glitchfiend/BiomesOPlenty), [Spotlight](https://www.youtube.com/watch?v=Qnl7MaSCiRg), Twitter: [Forstride](https://twitter.com/Forstride) & [TheAdubbz](https://twitter.com/TheAdubbz).
 
 ##Blood Magic 1.2.0b by WayofTime
 
