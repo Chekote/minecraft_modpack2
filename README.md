@@ -59,11 +59,11 @@ Many original horse animations that looked choppy (tail swiping) have been repla
 
 Donate: Not Available, [Download](http://adf.ly/377779/better-horses-v100-mc172), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1520923-172-hippomasters-mods-better-horses/), Reddit: Not Available, Source: Not Available, Spotlight: Not Available
 
-##BilbioCraft 1.8.2 by Nuchaz
+##BilbioCraft 1.9.1 by Nuchaz
 
 Adds various different furniture and decorative items, which are not only useful for creating more convincing building interiors, but also add functionality for storing and displaying various items such as books, potions and weapons etc.
 
-[Donate](http://www.bibliocraftmod.com/?page_id=352), [Download](http://www.bibliocraftmod.com/?page_id=48), IRC: Not Available, [License](http://www.bibliocraftmod.com/?page_id=57), [Minecraft Forum](http://www.minecraftforum.net/topic/1680480-172164forgesmp-bibliocraft-v170-bookcases-armor-stands-shelves-printing-presses-seats-map-frames-and-more-updated-05112014/), Reddit: Not Available, [Source](https://github.com/Nuchaz/BiblioCraft), [Spotlight](https://www.youtube.com/watch?v=rjXLfssEtoM), [Twitter](https://twitter.com/Mozzerello)
+[Donate](http://www.bibliocraftmod.com/?page_id=352), [Download](http://www.bibliocraftmod.com/?page_id=48), IRC: Not Available, [License](http://www.bibliocraftmod.com/?page_id=57), [Minecraft Forum](http://www.minecraftforum.net/topic/1680480), Reddit: Not Available, [Source](https://github.com/Nuchaz/BiblioCraft), [Spotlight](https://www.youtube.com/watch?v=rjXLfssEtoM), [Twitter](https://twitter.com/Mozzerello)
 
 ##Biomes 'o' Plenty 2.1.0.1004 by TheAdubbz
 
