@@ -137,7 +137,7 @@ An API for dynamically handling different functional parts in the one block spac
 
 [Donate](http://www.chickenbones.craftsaddle.org/Pages/donate.php), [Download](http://files.minecraftforge.net/ForgeMultipart/), License: Not Available, IRC: Not Available, Minecraft Forum: Not Availalbe, Reddit: Not Available, [Source](https://github.com/Chicken-Bones/ForgeMultipart), [Spotlight](https://www.youtube.com/watch?v=u9yUr4jmU6s), [Twitter](https://twitter.com/ChickenBones2).
 
-##Galacticraft 3.0.5.229 by MicDoodle8
+##Galacticraft 3.0.6.232 by MicDoodle8
 
 Galacticraft is a mod that lets you travel to new planets with your own spaceship, explore dungeons, and build a space stations with friends. It also includes an API that allows developers to add their own solar systems.
 
@@ -154,7 +154,7 @@ Features
 * Dungeons (coming soon)!
 * API to allow modders to add more content, including whole new solar systems and galaxies!
 
-Donate: Paypal(https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=mitchpetrie29@gmail.com&lc=US&item_name=Galacticraft&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest)/[Patreon}(http://www.patreon.com/micdoodle8), [Download](http://micdoodle8.com/mods/galacticraft/downloads), [IRC](http://webchat.esper.net/?channels=galacticraft), [License](https://github.com/micdoodle8/Galacticraft/blob/master/COPYING), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287888-galacticraft-3-open-source-4-100-000-downloads), Reddit: Not Available, [Source](https://github.com/micdoodle8/Galacticraft), [Spotlight](https://www.youtube.com/watch?v=IolGDRokUW8) (old version), [Twitter](https://twitter.com/micdoodle8)
+Donate: Paypal(https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=mitchpetrie29@gmail.com&lc=US&item_name=Galacticraft&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest)/[Patreon}(http://www.patreon.com/micdoodle8), [Download](http://micdoodle8.com/mods/galacticraft/downloads), [IRC](http://webchat.esper.net/?channels=galacticraft), [License](https://github.com/micdoodle8/Galacticraft/blob/master/COPYING), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287888), Reddit: Not Available, [Source](https://github.com/micdoodle8/Galacticraft), [Spotlight](https://www.youtube.com/watch?v=IolGDRokUW8) (old version), [Twitter](https://twitter.com/micdoodle8)
 
 ##Gravestone Mod 2.10.1 by NightKosh
 
