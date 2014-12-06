@@ -296,7 +296,7 @@ Enhancement the player movement by adding various abilities such as being able t
 
 Donate: Not Available, [Download](http://www.mediafire.com/?wsocz6pzfpkwhtr), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1274224-smart-moving), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=kqDY1RfltDM), Twitter: Not Available
 
-##Tails 1.2.2 by Kihira / TTFTCUTS
+##Tails 1.2.3 by Kihira / TTFTCUTS
 
 Donate: [Kihira](http://www.patreon.com/kihira), [TTFTCUTS]](https://www.patreon.com/TTFTCUTS), [Download](http://curse.com/mc-mods/minecraft/223584-tails/2214676), [IRC](http://webchat.esper.net/?nick=&channels=kihira), License: See FAQ on Minecraft Forum page, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2189718-1-1-1-now-with-movement-animations-tails-a-bunch), Reddit: Not Available, Source: Not Available, Spotlight: Not Available, Twitter: [Kihira](https://twitter.com/KitsuneKihira), [TTFTCUTS](https://twitter.com/TTFTCUTS)
 
