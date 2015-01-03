@@ -112,7 +112,7 @@ Improves Minecrafts lighting system by allowing moving objects to cast light. Fo
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=CvomlYNJXOVeaxJWWVwNn1bJSK3gNLtEfOzMhmmzHVP4eWTLtDzP2_piZ7q), [Download](http://www.atomicstryker.net/dynamiclights.php), [License](http://www.atomicstryker.net/about.php), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/184426-172-dynamic-lights-handheld-torches-moving-lightsources), Reddit: Not Available, [Source](https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FDynamicLights), [Spotlight](https://www.youtube.com/watch?v=XE_n3eZKl_c#t=65), [Twitter](https://twitter.com/AtomicStryker)
 
-##Falling Meteors 2.13.1 by AlexDGr8r
+##Falling Meteors 2.14 by AlexDGr8r
 
 AlexDGr8r had seen previous Meteor mods before with some of the features he has here, but they have all been discontinued or missing. This mod includes many excellent features that make it stand out from the rest of the old Meteor mods. The features of this mod are as follows:
 
@@ -129,7 +129,7 @@ AlexDGr8r had seen previous Meteor mods before with some of the features he has 
 * Fully SMP compatible!
 * Multilingual!
 
-[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=54TGB3BD295AA&amp;amp;lc=US&amp;amp;item_name=AlexDGr8r%20%2d%20Falling%20Meteors%20Mod%20Developer&amp;amp;currency_code=USD&amp;amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted), [Download](http://curse.com/mc-mods/minecraft/falling-meteors-mod/784719), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/989113-172sspsmpfalling-meteors-modv212/), Reddit: Not Available, [Source](http://alexdgr8r.github.io/MeteorsMod/), [Spotlight](https://www.youtube.com/watch?v=wL0PM_xnyl0), [Twitter](https://twitter.com/AlexDGr8r)
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=54TGB3BD295AA&amp;amp;lc=US&amp;amp;item_name=AlexDGr8r%20%2d%20Falling%20Meteors%20Mod%20Developer&amp;amp;currency_code=USD&amp;amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted), [Download](http://www.curse.com/mc-mods/minecraft/falling-meteors-mod#t1:other-downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/989113), Reddit: Not Available, [Source](http://alexdgr8r.github.io/MeteorsMod/), [Spotlight](https://www.youtube.com/watch?v=wL0PM_xnyl0), [Twitter](https://twitter.com/AlexDGr8r)
 
 ##Forge Multipart 1.1.0.314 by ChickenBones
 
