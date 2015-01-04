@@ -209,11 +209,11 @@ This Mod adds a huge number of new passive and hostile creatures to the game.
 
 [Donate](http://mocreatures.org/donate), [Download](http://mocreatures.org/downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/81771-172-mo-creatures-v620-with-ents-and-moles), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=56HE91UwHDE), [Twitter](https://twitter.com/DrZhark)
 
-##Not Enough Items 1.0.2.15 by ChickenBones
+##Not Enough Items 1.0.4.83 by ChickenBones
 
 NEI is a library tool for examining all of the items you can find and/or create in Minecraft. It provides the ability to search for items by name, and most importantly, easily lookup all the recipes that either consume or produce the item.
 
-[Donate](http://www.chickenbones.craftsaddle.org/Pages/donate.php), [Download](http://www.chickenbones.craftsaddle.org/Files/New_Versions/links.php), License: Not Available, IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/), Reddit: Not Available, [Source](https://github.com/Chicken-Bones/NotEnoughItems), [Spotlight](https://www.youtube.com/watch?v=DGyQFoedJpk), [Twitter](https://twitter.com/ChickenBones2).
+[Donate](http://www.chickenbones.craftsaddle.org/Pages/donate.php), [Download](http://chickenbones.net/Pages/links.html), License: Not Available, IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/909223), Reddit: Not Available, [Source](https://github.com/Chicken-Bones/NotEnoughItems), [Spotlight](https://www.youtube.com/watch?v=DGyQFoedJpk), [Twitter](https://twitter.com/ChickenBones2).
 
 ##Mekanism 7.1.1.127 by Aiden Brady
 
