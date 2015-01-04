@@ -203,11 +203,11 @@ Donate: Not Available, [Download](http://files.minecraftforge.net/IronChests2/),
 
 Donate: Not Available, [Download](https://bitbucket.org/Zuxelus/jammy_furniture_mod/downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282205-v4-5-1-6-2-forge-smp-jammy-furniture-mod), Reddit: Not Available, [Source](https://bitbucket.org/Zuxelus/jammy_furniture_mod/src), [Spotlight](http://www.youtube.com/watch?v=V4oRFOuJDZ8), Twitter: [Jammy780](https://twitter.com/Jammy780), [Zuxelus](https://twitter.com/Zuxelus), [Website](http://www.jammy780.co.uk/jfm)
 
-##Mo' Creatures 6.2.0 Dev R3 by DrZhark
+##Mo' Creatures 6.3.1 by DrZhark
 
 This Mod adds a huge number of new passive and hostile creatures to the game.
 
-[Donate](http://mocreatures.org/donate), [Download](http://mocreatures.org/downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/81771-172-mo-creatures-v620-with-ents-and-moles), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=56HE91UwHDE), [Twitter](https://twitter.com/DrZhark)
+[Donate](http://mocreatures.org/donate), [Download](http://mocreatures.org/downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/81771), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=56HE91UwHDE), [Twitter](https://twitter.com/DrZhark)
 
 ##Not Enough Items 1.0.4.83 by ChickenBones
 
