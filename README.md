@@ -334,12 +334,6 @@ This is a revision and extension of the outstanding Underground Biomes mod, orig
 
 Donate: Not Available, [Download](http://minecraft.curseforge.com/mc-mods/72744-undergroundbiomesconstructs/files/2216023), IRC: Not Available, [License](http://wiki.creativecommons.org/Public_domain), [Minecraft Forum](http://www.minecraftforum.net/topic/2314333-172-164-underground-biomes-constructs), Reddit: Not Available, [Source](https://github.com/Zeno410/UndergroundBiomes), [Spotlight](https://www.youtube.com/watch?v=pGCd0JYDNfM), Twitter: [Exterminator Jeff](https://twitter.com/ExterminatorJef), [Grom PE](https://twitter.com/Grom_PE), [Zeno410](https://twitter.com/Zeno410)
 
-##Universal Electricity 4.0.0.88 by Calclavia
-
-Universal Electricity is a Minecraft modding library that provides an easy, flexible energy framework and compatibility bridges between various energy systems in Minecraft.
-
-Donate: Available, but could not determine how, [Download](http://universalelectricity.com/downloads/), [IRC](http://webchat.esper.net/?channels=universalelectricity), [License](https://www.gnu.org/licenses/lgpl.html), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1283827-1-6-2-universal-electricity-an-electricity-system), Reddit: Not Available, [Source](https://github.com/Universal-Electricity/Universal-Electricity), Spotlight: Not Available, [Twitter](https://twitter.com/Calclavia)
-
 ##VoxelMap No Radar 1.0 by MamiyaOtaru
 
 VoxelMap is an in-game minimap mod with a few nice features.  It displays waypoints (per dimension, and per multiverse world if the server is running voxelPlugin).  It also displays player icons, with optional helmets and playernames.  Waypoints can be edited or removed at any time, with an easy UI for picking their color.  In SP (with commands enabled) or in MP with sufficient permissions, the user can teleport to any waypoint.  Functions in the Nether and has a handy cave mode for underground exploration.
