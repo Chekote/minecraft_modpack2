@@ -156,11 +156,11 @@ Features
 
 Donate: Paypal(https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=mitchpetrie29@gmail.com&lc=US&item_name=Galacticraft&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest)/[Patreon}(http://www.patreon.com/micdoodle8), [Download](http://micdoodle8.com/mods/galacticraft/downloads), [IRC](http://webchat.esper.net/?channels=galacticraft), [License](https://github.com/micdoodle8/Galacticraft/blob/master/COPYING), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287888), Reddit: Not Available, [Source](https://github.com/micdoodle8/Galacticraft), [Spotlight](https://www.youtube.com/watch?v=IolGDRokUW8) (old version), [Twitter](https://twitter.com/micdoodle8)
 
-##Gravestone Mod 2.10.2 by NightKosh
+##Gravestone Mod 2.11.1 by NightKosh
 
 This mod adds a gravestone to the game, which "spawns" at player/villager/dog/cat death. Also this mod generates cemeteries in some villages, and the "Wither's catacombs". This is a new huge structure, like stronghold, where you can find a lot of loot, dangerous adventures and a "Wither Boss" at the end.
 
-[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9EC38X4BQSQCA), [Download](http://adf.ly/3890646/gravestone-2102---1710), IRC: Not Available, [License](http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [Minecraft Forum](http://www.minecraftforum.net/topic/1711328), Reddit: Not Available, [Source](https://github.com/NightKosh/GraveStone-mod), [Spotlight](https://www.youtube.com/watch?v=jPT83W-HFwA), [Twitter](https://twitter.com/NightKosh)
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9EC38X4BQSQCA), [Download](http://adf.ly/3890646/gravestone-2111---1710), IRC: Not Available, [License](http://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License), [Minecraft Forum](http://www.minecraftforum.net/topic/1711328), Reddit: Not Available, [Source](https://github.com/NightKosh/GraveStone-mod), [Spotlight](https://www.youtube.com/watch?v=jPT83W-HFwA), [Twitter](https://twitter.com/NightKosh)
 
 ##Hats 4.0.1 by iChun
 
