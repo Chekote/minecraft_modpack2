@@ -65,7 +65,7 @@ Adds various different furniture and decorative items, which are not only useful
 
 [Donate](http://www.bibliocraftmod.com/?page_id=352), [Download](http://www.bibliocraftmod.com/?page_id=48), IRC: Not Available, [License](http://www.bibliocraftmod.com/?page_id=57), [Minecraft Forum](http://www.minecraftforum.net/topic/1680480), Reddit: Not Available, [Source](https://github.com/Nuchaz/BiblioCraft), [Spotlight](https://www.youtube.com/watch?v=rjXLfssEtoM), [Twitter](https://twitter.com/Mozzerello)
 
-##Biomes 'o' Plenty 2.1.0.1009 by TheAdubbz
+##Biomes 'o' Plenty 2.1.0.1036 by TheAdubbz
 
 Adds a huge amount of additional biomes, a few creatures and one dimension to the game.
 
