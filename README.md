@@ -93,11 +93,11 @@ In addition to covering the block with almost anything, you can also overlay any
 
 Donate: Not Available, [Download](http://www.carpentersblocks.com/downloads.html), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1790919), Reddit: Not Available, [Source](https://github.com/Mineshopper/carpentersblocks), [Spotlight](https://www.youtube.com/watch?v=MdPj-SwkKfw), Twitter: Not Available
 
-##Chocolate Quest 1.7.10 Beta 2 by Chocolatin
+##Chocolate Quest 1.0 by Chocolatin
 
 Adds a whole bunch of new dungeon types to various biomes in the over world. These dungeons are far more complex than the simple room dungeons in Vanilla Minecraft, and contain all kinds of custom creatures, loot and traps.
 
-[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alarrizabalaga@gmail.com&lc=US&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest), [Download](http://dl.dropboxusercontent.com/s/cqtr7f50rkmlwru/ChocolateQuest_1.7.10-BETA2.zip), IRC: Not Available, License: See Minecraft Forum - Copyright section, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278075-chocolate-quest-mods-for-the-adventurers), Reddit: Not Available, [Source](Not Available), Spotlight: Not Available, Twitter: Not Available
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alarrizabalaga@gmail.com&lc=US&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest), [Download](http://www.curse.com/mc-mods/minecraft/better-dungeons), IRC: Not Available, License: See Minecraft Forum - Copyright section, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278075), Reddit: Not Available, [Source](Not Available), Spotlight: Not Available, Twitter: Not Available
 
 ##ComputerCraft 1.65 by Dan200
 
