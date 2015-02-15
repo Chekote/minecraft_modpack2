@@ -2,6 +2,12 @@ Chekote's Modpack v2, for Minecraft 1.7.2
 
 #Mod List:
 
+##Aether II 1.0 by Guilded Games
+
+Aether 1 was one of the largest and most popular Minecraft mods of its time. With the Aether II, we aim to recreate that same amazing experience but with a fleshed-out sense of quality. The mod includes amazing features such as our advanced party system, our vastly redesigned dungeons, and much, much more. Aether II is designed to be the polar opposite of the Nether, a grand realm of floating islands in the sky with dark secrets beneath. Getting to the Aether is easy -- a 4x5 glowstone portal (just like the Nether portal!) and a little water will open the path to the skies. Discover new unique mobs and items in this vast and beautiful world.
+
+[Donate](http://www.gilded-games.com/aether/?page=donate), [Download](http://www.aetherii.com/downloads), [IRC](http://webchat.esper.net/?channels=aethermod), License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289717), [Reddit](http://www.reddit.com/r/TheAether/), Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=JnUrwRucsA4), [Twitter](https://twitter.com/devaether)
+
 ##Animated Player 1.4.1 by TheHippoMaster21
 
 Do you love Minecraft's default animations? Are you obsessed with the way the Minecraft player looks and acts? Do you wish Minecraft's player would forever look the same way? Well if you do, then this isn't the mod for you!
