@@ -209,6 +209,14 @@ Donate: Not Available, [Download](http://files.minecraftforge.net/IronChests2/),
 
 Donate: Not Available, [Download](https://bitbucket.org/Zuxelus/jammy_furniture_mod/downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282205-v4-5-1-6-2-forge-smp-jammy-furniture-mod), Reddit: Not Available, [Source](https://bitbucket.org/Zuxelus/jammy_furniture_mod/src), [Spotlight](http://www.youtube.com/watch?v=V4oRFOuJDZ8), Twitter: [Jammy780](https://twitter.com/Jammy780), [Zuxelus](https://twitter.com/Zuxelus), [Website](http://www.jammy780.co.uk/jfm)
 
+##Journey Map 5.0.1 by Techbrew
+
+JourneyMap is a client mod which maps your Minecraft world in real-time as you explore. You can view the live map in a web browser, on your iPad or Android Tablet, or in-game. It requires Forge.
+
+It comes in two editions, Unlimited and FairPlay. If your MP server is strict about radar and cave mapping (but doesn't have the JourneyMap Server Mod) you can use the FairPlay Edition and be worry-free! (See JourneyMap Editions for a full comparison.)
+
+[Donate](http://www.patreon.com/techbrew), [Download](http://journeymap.techbrew.net/download/), [License](http://journeymap.techbrew.net/help/modpacks/), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278348), Reddit: Not Available, Source: Not Available, Spotlight: Not Available, [Twitter](https://twitter.com/JourneyMapMod)
+
 ##Mo' Creatures 6.3.1 by DrZhark
 
 This Mod adds a huge number of new passive and hostile creatures to the game.
@@ -339,12 +347,6 @@ Overhauls the underground experience with Underground Biomes that define the roc
 This is a revision and extension of the outstanding Underground Biomes mod, originally by ExterminatorJeff and later by GromPE. Originally Constructs added stairs, walls, and buttons in almost all of the UB stones, including smoothstone, cobble, and brick versions. This new version adds many more features and fixes listed on the Minecraft Forum page. A link to the original Underground Biomes mod is later in the page.
 
 Donate: Not Available, [Download](http://minecraft.curseforge.com/mc-mods/72744-undergroundbiomesconstructs/files/2216023), IRC: Not Available, [License](http://wiki.creativecommons.org/Public_domain), [Minecraft Forum](http://www.minecraftforum.net/topic/2314333-172-164-underground-biomes-constructs), Reddit: Not Available, [Source](https://github.com/Zeno410/UndergroundBiomes), [Spotlight](https://www.youtube.com/watch?v=pGCd0JYDNfM), Twitter: [Exterminator Jeff](https://twitter.com/ExterminatorJef), [Grom PE](https://twitter.com/Grom_PE), [Zeno410](https://twitter.com/Zeno410)
-
-##VoxelMap No Radar 1.0 by MamiyaOtaru
-
-VoxelMap is an in-game minimap mod with a few nice features.  It displays waypoints (per dimension, and per multiverse world if the server is running voxelPlugin).  It also displays player icons, with optional helmets and playernames.  Waypoints can be edited or removed at any time, with an easy UI for picking their color.  In SP (with commands enabled) or in MP with sufficient permissions, the user can teleport to any waypoint.  Functions in the Nether and has a handy cave mode for underground exploration.
-
-Donate: Not Available, [Download](http://www.planetminecraft.com/mod/zans-minimap), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1116564-164-162-mamiyaotarus-mods-voxelmap-chatbubbles-etc), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=7gRnUCw61Ww), Twitter: Not Available
 
 ##What am I looking at (Waila) 1.5.8a by ProfMobius
 
