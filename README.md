@@ -180,13 +180,13 @@ This mod adds a single block item, a Hat Stand. You can use this to display the 
 
 [Donate](http://ichun.us/mods/hats/), [Download](http://adf.ly/quuDq), [IRC](http://webchat.esper.net/?channels=iChun), License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1754665-/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=5WoDn2V-pFA), [Twitter](https://twitter.com/ohaiiChun)
 
-##Infernal Mobs 1.5.9 by AtomicStryker
+##Infernal Mobs 1.6.0 by AtomicStryker
 
 This mod randomly imbues spawning Living Things in the World with Diablo-style random Enchantments, making them much harder and much more rewarding to kill.
 
 They also drop the quadruple amount of xp and a random enchanted item.
 
-[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=CvomlYNJXOVeaxJWWVwNn1bJSK3gNLtEfOzMhmmzHVP4eWTLtDzP2_piZ7q), [Download](http://www.atomicstryker.net/infernalmobs.php), [License](http://www.atomicstryker.net/about.php), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284359-atomicstrykers-infernal-mobs-diablo-style), [Source](https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FInfernalMobs%253Fstate%253Dclosed), [Spotlight](http://www.youtube.com/watch?v=0CftrqAyHXc), [Twitter](https://twitter.com/AtomicStryker)
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=CvomlYNJXOVeaxJWWVwNn1bJSK3gNLtEfOzMhmmzHVP4eWTLtDzP2_piZ7q), [Download](http://www.atomicstryker.net/infernalmobs.php), [License](http://www.atomicstryker.net/about.php), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284359), [Source](https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FInfernalMobs%253Fstate%253Dclosed), [Spotlight](http://www.youtube.com/watch?v=0CftrqAyHXc), [Twitter](https://twitter.com/AtomicStryker)
 
 ##Inventory Tweaks 1.59-dev-152 by Kobata
 
