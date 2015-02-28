@@ -37,7 +37,7 @@ Donate: Not Available, [Download](http://duke605.github.io/mods/arcane-scrolls/d
 
 Adds the ability to construct ships and airships out of almost any block, and turn them into fully controllable vehicles.
 
-Donate: Not Available, [Download](http://goo.gl/kSOVhx), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1857899-172-164forge-archimedes-ships-v15-advanced-ship-creation), Reddit: Not Available, Source: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=RhiybUoIFsk#t=530), Twitter: Not Available
+Donate: Not Available, [Download](http://goo.gl/kSOVhx), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1857899-172-164forge-archimedes-ships-v15-advanced-ship-creation), Reddit: Not Available, [Source](https://github.com/Ckathode/archimedes-ships), [Spotlight](https://www.youtube.com/watch?v=RhiybUoIFsk#t=530), Twitter: Not Available
 
 ##Ars Magica 1.4.0.006 by Mithion
 
