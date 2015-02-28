@@ -258,13 +258,13 @@ This mod adds the ability to customize the look of your player model in a large 
 
 Donate: Not Available, [Download](http://www.kodevelopment.nl/minecraft/moreplayermodels/downloads/), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291730-more-player-models-2-adds-a-character-creation), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=_F4ZBKOADyE#t=41), [Twitter](https://twitter.com/Noppes_)
 
-##Mutant Creatures 1.4.5 by TheHippoMaster21
+##Mutant Creatures 1.4.8 by TheHippoMaster21
 
 Gunpowder... Spice... And everything nice. These were the ingredients chosen to create the perfect pet creatures. But Professor HippoMaster accidentally added an extra ingredient to the concoction... Chemical X! Thus the Mutant Creatures were born!
 
 Add Chemical X to the game, a mutinagenic that can be thrown at most Vanilla mobs, and turn them into super powered mutant versions of themselves. Mutant creatures *can* spawn naturally, but it is very rare.
 
-Donate: Not Available, [Download](http://goo.gl/DJXRz), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1336132-172spmp-mutant-creatures-updated-v145/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=novGZ1mCqGQ), Twitter: Not Available
+Donate: Not Available, [Download](http://goo.gl/DJXRz), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1336132), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=novGZ1mCqGQ), Twitter: Not Available
 
 ##MystCraft 0.11.0.0 by XCompWiz
 
