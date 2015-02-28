@@ -348,7 +348,7 @@ This is a revision and extension of the outstanding Underground Biomes mod, orig
 
 Donate: Not Available, [Download](http://minecraft.curseforge.com/mc-mods/72744-undergroundbiomesconstructs/files/2216023), IRC: Not Available, [License](http://wiki.creativecommons.org/Public_domain), [Minecraft Forum](http://www.minecraftforum.net/topic/2314333-172-164-underground-biomes-constructs), Reddit: Not Available, [Source](https://github.com/Zeno410/UndergroundBiomes), [Spotlight](https://www.youtube.com/watch?v=pGCd0JYDNfM), Twitter: [Exterminator Jeff](https://twitter.com/ExterminatorJef), [Grom PE](https://twitter.com/Grom_PE), [Zeno410](https://twitter.com/Zeno410)
 
-##What am I looking at (Waila) 1.5.8a by ProfMobius
+##What am I looking at (Waila) 1.5.9 by ProfMobius
 
 Waila is an extension for NEI. It will show in the tooltip what mod an item is from. Since the tooltip contains the mod name, you can also easly parse items per mods. But that's not all ! Leveraging an extended NEI HUD, it is also capable of showing the name of blocks and mods ingame, right on top of your screen. If this is not enough, it comes with a few integrated modules to show internal information of some specific blocks. For now, BC tanks have been implemented (shows the content, capacity and amount of fluid) and IC2 machines (shows the In/out voltage).
 
