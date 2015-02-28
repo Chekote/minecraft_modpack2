@@ -39,7 +39,7 @@ Adds the ability to construct ships and airships out of almost any block, and tu
 
 Donate: Not Available, [Download](http://goo.gl/kSOVhx), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1857899-172-164forge-archimedes-ships-v15-advanced-ship-creation), Reddit: Not Available, [Source](https://github.com/Ckathode/archimedes-ships), [Spotlight](https://www.youtube.com/watch?v=RhiybUoIFsk#t=530), Twitter: Not Available
 
-##Ars Magica 1.4.0.006 by Mithion
+##Ars Magica 1.4.0.008 by Mithion
 
 A look into what Minecraft could become when you add a splash of magic...Ars Magica is a mod about casting powerful spells, fighting bosses, and having fun with magic! It features a unique spell creation system where you can create any spell you can imagine!
 
