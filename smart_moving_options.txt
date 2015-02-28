@@ -1156,9 +1156,6 @@ move.config.toggle.default.key.name:F9
 # Default key name to "grab" (default: "LCONTROL")
 move.grab.default.key.name:LCONTROL
 
-# Default key name to "sprint" (default: "TAB")
-move.sprint.default.key.name:TAB
-
 # Key name to increase the moving speed ingame (default: "O")
 move.speed.increase.default.key.name:O
 
