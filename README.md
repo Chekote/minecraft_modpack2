@@ -19,13 +19,13 @@ Currently this mod replaces animations for walking, running, swimming, jumping, 
 
 [Donate: Not Available, [Download](http://goo.gl/K8aaV), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1768057-172aesthetic-animated-player-rounded-curves-v141/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=UH6Kv06vSH0)
 
-##Another One Bites The Dust 2.2.5 by Ganymedes01
+##Another One Bites The Dust 2.4.0 by Ganymedes01
 
 ​AOBD has grown further than being a simple TIC add-on to allow Ardite and Cobalt processing. It now automatically detects every single ore from every single mod you have installed and creates the necessary dusts and etc in order for that metal to be processed on IC2, RailCraft's Rock Crusher and EnderIO's SAG Mill!
 
 It also now adds Thaumcraft's Native Clusters for every possible ore! As soon as they are updated there will also be integration with Mekanism and ThermalExpansion!
 
-Donate: Not Available, [Download](http://www.curse.com/mc-mods/minecraft/221863-another-one-bites-the-dust/2213162), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/2319703-172-aobd-2-process-all-the-ores-v202/), Reddit: Not Available, Source: Not Available, Spotlight: Not Avialable, [Twitter](https://twitter.com/ganymedes01)
+Donate: Not Available, [Download](http://www.curse.com/mc-mods/minecraft/221863-another-one-bites-the-dust/2213162), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/2319703), Reddit: Not Available, Source: Not Available, Spotlight: Not Avialable, [Twitter](https://twitter.com/ganymedes01)
 
 ##Arcane Scrolls 3.2.1.26 by Duke605
 
