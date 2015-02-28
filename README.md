@@ -118,7 +118,7 @@ Improves Minecrafts lighting system by allowing moving objects to cast light. Fo
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_flow&SESSION=CvomlYNJXOVeaxJWWVwNn1bJSK3gNLtEfOzMhmmzHVP4eWTLtDzP2_piZ7q), [Download](http://www.atomicstryker.net/dynamiclights.php), [License](http://www.atomicstryker.net/about.php), IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/184426-172-dynamic-lights-handheld-torches-moving-lightsources), Reddit: Not Available, [Source](https://code.google.com/p/atomicstrykers-minecraft-mods/source/browse/#hg%2FDynamicLights), [Spotlight](https://www.youtube.com/watch?v=XE_n3eZKl_c#t=65), [Twitter](https://twitter.com/AtomicStryker)
 
-##Falling Meteors 2.14 by AlexDGr8r
+##Falling Meteors 2.14.2 by AlexDGr8r
 
 AlexDGr8r had seen previous Meteor mods before with some of the features he has here, but they have all been discontinued or missing. This mod includes many excellent features that make it stand out from the rest of the old Meteor mods. The features of this mod are as follows:
 
