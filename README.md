@@ -239,7 +239,7 @@ By the time you’ve been using Mekanism for a while, you’ll have a near-instr
 
 [Donate](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=0pz6KXFdP2FIgOwf0b_4sisNRA5jrkUdaNRm3AKa31HTpe04To8ig9_7Wbm&dispatch=5885d80a13c0db1f8e263663d3faee8d5402c249c5a2cfd4a145d37ec05e9a5e), [Download](http://aidancbrady.com/mekanism/download/), [IRC](http://irc.lc/esper/mekanism), [License](http://aidancbrady.com/copyright/), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284681), Reddit: Not Available, [Source](https://github.com/aidancbrady/Mekanism), [Spotlight](https://www.youtube.com/watch?v=GLNXGKZnFBs), [Twitter](https://twitter.com/AidanBrady_)
 
-##Mekanism Generators 7.1.1.127 by Aiden Brady
+##Mekanism Generators 8.1.2.229 by Aiden Brady
 
 Adds Heat, Solar, Wind, Bio and Hydrogen generators that can power practically any mod's machines via Mekanisms universal cable.
 
