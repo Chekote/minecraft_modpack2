@@ -229,7 +229,7 @@ NEI is a library tool for examining all of the items you can find and/or create 
 
 [Donate](http://www.chickenbones.craftsaddle.org/Pages/donate.php), [Download](http://chickenbones.net/Pages/links.html), License: Not Available, IRC: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/909223), Reddit: Not Available, [Source](https://github.com/Chicken-Bones/NotEnoughItems), [Spotlight](https://www.youtube.com/watch?v=DGyQFoedJpk), [Twitter](https://twitter.com/ChickenBones2).
 
-##Mekanism 8.1.0.215 by Aiden Brady
+##Mekanism 8.1.2.229 by Aiden Brady
 
 Mekanism is an independent tech mod that brings low, mid, and high tier machinery to Minecraft. The mod doesn’t have an actual goal, and you’ll understand this when you see all the random content Mekanism contains, from jetpacks to balloons.  However, I can assure you that you’ll notice all the content blend together as you get to know the mod better!
 
