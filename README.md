@@ -284,7 +284,7 @@ We want to make it clear from the very start that we do this in a completely tra
 
 [Official Page](http://openeye.openmods.info/download), Donate: Not Available, [Download](https://dl.dropboxusercontent.com/u/4295615/OpenEye-0.5-1.7.2.jar), [IRC](http://chat.mibbit.com/?channel=%23openeye&server=irc.esper.net), [License](https://github.com/OpenMods/OpenData/blob/master/LICENSE), [Minecraft Forum](http://www.minecraftforum.net/topic/2635657-164-172-introducing-openeye), Reddit: Not Available, [Source](https://github.com/OpenMods/OpenData), Spotlight: Not Available, Twitter: Not Available
 
-##RailCraft 9.5.0.0 by Covert Jaguar
+##RailCraft 9.6.1.0 by Covert Jaguar
 
 Have you ever wished minecarts and rails had received a bit more attention during development? Well that ends now! Gone are all those broken bits and in their place are a ton of new tools to build your massive rail system. If you ever cared about rails, you wont ever look back!
 
