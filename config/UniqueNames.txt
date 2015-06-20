@@ -1878,6 +1878,7 @@ Mekanism:GasUpgrade
 Mekanism:GaugeDropper
 Mekanism:GlowPanel
 Mekanism:GlowPlasticBlock
+Mekanism:HeavyWaterBucket
 Mekanism:Ingot
 Mekanism:ItemProxy
 Mekanism:Jetpack
