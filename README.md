@@ -2,7 +2,7 @@ Chekote's Modpack v2, for Minecraft 1.7.2
 
 #Mod List:
 
-##Aether II 1.1 by Guilded Games
+##Aether II 1.4 by Guilded Games
 
 Aether 1 was one of the largest and most popular Minecraft mods of its time. With the Aether II, we aim to recreate that same amazing experience but with a fleshed-out sense of quality. The mod includes amazing features such as our advanced party system, our vastly redesigned dungeons, and much, much more. Aether II is designed to be the polar opposite of the Nether, a grand realm of floating islands in the sky with dark secrets beneath. Getting to the Aether is easy -- a 4x5 glowstone portal (just like the Nether portal!) and a little water will open the path to the skies. Discover new unique mobs and items in this vast and beautiful world.
 
