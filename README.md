@@ -137,6 +137,25 @@ AlexDGr8r had seen previous Meteor mods before with some of the features he has 
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=54TGB3BD295AA&amp;amp;lc=US&amp;amp;item_name=AlexDGr8r%20%2d%20Falling%20Meteors%20Mod%20Developer&amp;amp;currency_code=USD&amp;amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted), [Download](http://www.curse.com/mc-mods/minecraft/falling-meteors-mod#t1:other-downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/989113), Reddit: Not Available, [Source](http://alexdgr8r.github.io/MeteorsMod/), [Spotlight](https://www.youtube.com/watch?v=wL0PM_xnyl0), [Twitter](https://twitter.com/AlexDGr8r)
 
+##Fastcraft 1.21 by Player
+
+FastCraft is a sophisticated mod which improves the client and server performance significantly without any game play changes. FastCraft is useful for anything, even fast PCs and servers benefit.
+
+The mod is optional on both server and client, meaning that it can be installed on both server and client, just the client or just the server. Even mismatched versions between server and client are fine. It is recommended to always use the latest version on both sides however.
+
+FastCraft doesn't require any configuration since it is supposed to be fully transparent to the user. To install FastCraft just drop it into your mods folder with Minecraft Forge installed. There may be bugs and the code is somewhat experimental, make backups of your world save while using it.
+
+Optimizations/tweaks FastCraft applies are very broad and include the following:
+- FPS improvements (client), benefits depend heavily on PC, mods and the world
+- TPS / simulation improvements through faster code and better algorithms
+- Lag spike elimination from world generation, light calculations and chunk loads
+- RAM savings of around 200 MB for a decent amount of mods
+- Faster chunk loading (client/server) and rendering (client)
+- Faster game startup
+- Minor network bandwidth reduction in some scenarios
+
+Donate: Not Available, [Download](http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820), [IRC](http://webchat.esper.net/?channels=fastcraft), Minecraft Forum: Not Available, Reddit: Not Available, Source: Not Available, Spotlight: Not Available, Twitter: Not Available
+
 ##Forge Multipart 1.2.0.345 by ChickenBones
 
 An API for dynamically handling different functional parts in the one block space.
