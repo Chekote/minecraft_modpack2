@@ -77,7 +77,7 @@ Adds a huge amount of additional biomes, a few creatures and one dimension to th
 
 Donate: [Adubbz](http://www.patreon.com/Adubbz) & [Forstride](http://www.patreon.com/forstride), [Download](http://files.minecraftforge.net/BiomesOPlenty/), [License](http://creativecommons.org/licenses/by-nc-nd/4.0), [IRC](http://webchat.esper.net/?nick=&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;channels=biomesoplenty), [Minecraft Forum](http://www.minecraftforum.net/topic/1495041), [Reddit](http://www.reddit.com/r/biomesoplenty), [Source](https://github.com/Glitchfiend/BiomesOPlenty), [Spotlight](https://www.youtube.com/watch?v=Qnl7MaSCiRg), Twitter: [Forstride](https://twitter.com/Forstride) & [TheAdubbz](https://twitter.com/TheAdubbz).
 
-##Blood Magic 1.3.1-2 by WayofTime
+##Blood Magic 1.3.3-4 by WayofTime
 
 Have you ever picked up a magic mod for Minecraft, and thought that it was too tame? Was there not enough danger involved when creating your next high-tech gadget? Bored with all of those peaceful animals just staring at you without a care in the world? Well then, I am glad you came here!
 
