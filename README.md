@@ -232,7 +232,7 @@ Donate: Not Available, [Download](http://files.minecraftforge.net/IronChests2/),
 
 Donate: Not Available, [Download](https://bitbucket.org/Zuxelus/jammy_furniture_mod/downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282205-v4-5-1-6-2-forge-smp-jammy-furniture-mod), Reddit: Not Available, [Source](https://bitbucket.org/Zuxelus/jammy_furniture_mod/src), [Spotlight](http://www.youtube.com/watch?v=V4oRFOuJDZ8), Twitter: [Jammy780](https://twitter.com/Jammy780), [Zuxelus](https://twitter.com/Zuxelus), [Website](http://www.jammy780.co.uk/jfm)
 
-##Journey Map 5.0.1 by Techbrew
+##Journey Map 5.1.0 by Techbrew
 
 JourneyMap is a client mod which maps your Minecraft world in real-time as you explore. You can view the live map in a web browser, on your iPad or Android Tablet, or in-game. It requires Forge.
 
