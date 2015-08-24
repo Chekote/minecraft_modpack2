@@ -268,6 +268,8 @@ Adds Heat, Solar, Wind, Bio and Hydrogen generators that can power practically a
 
 ##More Player Models 1.7.10b by Noppes
 
+![banner](http://i.imgur.com/pnsm5.png)
+
 This mod adds the ability to customize the look of your player model in a large variety of ways.
 
 * A character creation screen(F12) to change your model
