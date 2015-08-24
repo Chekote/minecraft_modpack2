@@ -41,6 +41,8 @@ Donate: Not Available, [Download](http://goo.gl/kSOVhx), IRC: Not Available, Lic
 
 ##Ars Magica 1.4.0.008 by Mithion
 
+![banner](https://lh4.googleusercontent.com/-2c4SCH78Ofw/UfutlM2ZttI/AAAAAAAAAU0/oQ49n0kZQG8/w346-h100-no/AM2Logo.png)
+
 A look into what Minecraft could become when you add a splash of magic...Ars Magica is a mod about casting powerful spells, fighting bosses, and having fun with magic! It features a unique spell creation system where you can create any spell you can imagine!
 
 [Donate](http://www.patreon.com/Mithion), [Download](https://www.dropbox.com/s/fqzh4xa3reyqram/AM2-1.4.0.006.jar), [IRC](http://webchat.esper.net/?channels=Mithion), License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292222), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=_rTtTye1NkU), [Twitter](https://twitter.com/Mithion13)
