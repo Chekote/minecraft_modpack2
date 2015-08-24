@@ -19,7 +19,7 @@ Currently this mod replaces animations for walking, running, swimming, jumping, 
 
 [Donate: Not Available, [Download](http://goo.gl/K8aaV), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1768057-172aesthetic-animated-player-rounded-curves-v141/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=UH6Kv06vSH0)
 
-##Another One Bites The Dust 2.6.3 by Ganymedes01
+##Another One Bites The Dust 2.8.1 by Ganymedes01
 
 ​AOBD has grown further than being a simple TIC add-on to allow Ardite and Cobalt processing. It now automatically detects every single ore from every single mod you have installed and creates the necessary dusts and etc in order for that metal to be processed on IC2, RailCraft's Rock Crusher and EnderIO's SAG Mill!
 
