@@ -67,7 +67,9 @@ Many original horse animations that looked choppy (tail swiping) have been repla
 
 Donate: Not Available, [Download](http://adf.ly/377779/better-horses-v100-mc172), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1520923-172-hippomasters-mods-better-horses/), Reddit: Not Available, Source: Not Available, Spotlight: Not Available
 
-##BiblioCraft 1.10.4 by Nuchaz
+##BiblioCraft 1.10.6 by Nuchaz
+
+![banner](http://i.imgur.com/2JhG4D4.jpg)
 
 Adds various different furniture and decorative items, which are not only useful for creating more convincing building interiors, but also add functionality for storing and displaying various items such as books, potions and weapons etc.
 
