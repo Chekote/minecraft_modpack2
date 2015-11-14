@@ -347,7 +347,7 @@ Thaumaturgy is the capability of a magician to work miracles. A practitioner of 
 
 [Donate](http://adf.ly/1311628/thaumcraft-4), [Download](http://adf.ly/1311628/thaumcraft-4), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/2011841), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=u_xJj356v28&feature=kp), [Twitter](https://twitter.com/Azanor1)
 
-##Tinkers Construct 1.8.7 by Boni
+##Tinkers Construct 1.8.8 by Boni
 
 Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart's desire. Once you make them, they're yours forever. Any world generation included in the mod is more efficient, but not required to progress.
 
