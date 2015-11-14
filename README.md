@@ -103,7 +103,7 @@ In addition to covering the block with almost anything, you can also overlay any
 
 Donate: Not Available, [Download](http://www.carpentersblocks.com/downloads.html), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1790919), Reddit: Not Available, [Source](https://github.com/Mineshopper/carpentersblocks), [Spotlight](https://www.youtube.com/watch?v=MdPj-SwkKfw), Twitter: Not Available
 
-##Chocolate Quest 1.0 by Chocolatin
+##Chocolate Quest 1.1d by Chocolatin
 
 Adds a whole bunch of new dungeon types to various biomes in the over world. These dungeons are far more complex than the simple room dungeons in Vanilla Minecraft, and contain all kinds of custom creatures, loot and traps.
 
