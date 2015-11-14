@@ -33,11 +33,11 @@ Adds Scrolls to you to your game that give you different abilities. There are 4 
 
 Donate: Not Available, [Download](http://duke605.github.io/mods/arcane-scrolls/download/), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1827837-172forgeuniversal-arcane-scrolls-v31224/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=JfhEZgizmAk), Twitter: Not Available
 
-##Archimedes Ships 1.6.1 by BalkondeurAlpha
+##Archimedes Ships Plus 1.8 by Darkevilmac
 
-Adds the ability to construct ships and airships out of almost any block, and turn them into fully controllable vehicles.
+Wanna fly that giant sky island you made the other day? Want to actually use that pirate ship you built? Then this mod is what you need. Place a helm, add some balloons and off you go!
 
-Donate: Not Available, [Download](http://goo.gl/kSOVhx), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1857899-172-164forge-archimedes-ships-v15-advanced-ship-creation), Reddit: Not Available, [Source](https://github.com/Ckathode/archimedes-ships), [Spotlight](https://www.youtube.com/watch?v=RhiybUoIFsk#t=530), Twitter: Not Available
+[Donate](https://www.patreon.com/darkevilmac?ty=h), [Download](http://www.curse.com/mc-mods/minecraft/228029-archimedes-ships-plus-flying-houses-flying-houses#t1:other-downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2364835), Reddit: Not Available, [Source](https://github.com/darkevilmac/archimedes-ships-plus), [Spotlight](https://www.youtube.com/watch?v=RhiybUoIFsk#t=530), [Twitter](https://twitter.com/ganymedes0)
 
 ##Ars Magica 1.4.0.008 by Mithion
 
