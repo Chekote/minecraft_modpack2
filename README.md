@@ -367,7 +367,7 @@ This mod adds an incredibly rich dimension, with new and unique biomes, many man
 
 Donate: Not Available, [Download](http://www.curse.com/mc-mods/minecraft/227639-the-twilight-forest#t1:other-downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/561673), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=SdPwMvbJOuM), [Twitter](https://twitter.com/Benimatic)
 
-##Underground Biome Constructs 0.6h13 by Exterminator Jeff, Grom PE & Zeno410
+##Underground Biome Constructs 0.7 by Exterminator Jeff, Grom PE & Zeno410
 
 Overhauls the underground experience with Underground Biomes that define the rock types present. These biomes occur differently to the surface biomes making exploration underground more interesting.
 
