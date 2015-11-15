@@ -166,7 +166,7 @@ An API for dynamically handling different functional parts in the one block spac
 
 [Donate](http://www.chickenbones.craftsaddle.org/Pages/donate.php), [Download](http://files.minecraftforge.net/ForgeMultipart/), License: Not Available, IRC: Not Available, Minecraft Forum: Not Availalbe, Reddit: Not Available, [Source](https://github.com/Chicken-Bones/ForgeMultipart), [Spotlight](https://www.youtube.com/watch?v=u9yUr4jmU6s), [Twitter](https://twitter.com/ChickenBones2).
 
-##Galacticraft 3.0.11.333 by MicDoodle8
+##Galacticraft 3.0.12.375 by MicDoodle8
 
 Galacticraft is a mod that lets you travel to new planets with your own spaceship, explore dungeons, and build a space stations with friends. It also includes an API that allows developers to add their own solar systems.
 
