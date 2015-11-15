@@ -109,7 +109,7 @@ Adds a whole bunch of new dungeon types to various biomes in the over world. The
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alarrizabalaga@gmail.com&lc=US&no_note=0&currency_code=USD&bn=PP-DonationsBF:btn_donate_SM.gif:NonHostedGuest), [Download](http://www.curse.com/mc-mods/minecraft/better-dungeons), IRC: Not Available, License: See Minecraft Forum - Copyright section, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1278075), Reddit: Not Available, [Source](Not Available), Spotlight: Not Available, Twitter: Not Available
 
-##ComputerCraft 1.73 by Dan200
+##ComputerCraft 1.74 by Dan200
 
 ComputerCraft is a mod created for Minecraft by dan200 that adds Computers, Monitors, Modems, Turtles and more! ComputerCraft's Computers and Turtles are programmed with the Lua programming language. You can use Redstone, RedPower or even MineFactory Reloaded alongside with your devices for the best experience.
 
