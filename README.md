@@ -8,6 +8,25 @@ Aether 1 was one of the largest and most popular Minecraft mods of its time. Wit
 
 [Donate](http://www.gilded-games.com/aether/?page=donate), [Download](http://www.aetherii.com/downloads), [IRC](http://webchat.esper.net/?channels=aethermod), License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289717), [Reddit](http://www.reddit.com/r/TheAether/), Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=JnUrwRucsA4), [Twitter](https://twitter.com/devaether)
 
+##Alternate Terrain Generation 0.12.0 by TTFTCUTS
+
+ATG adds a new world type which entirely replaces the base method of creating the world.
+
+Vanilla generation creates "blobs" of land within the world and assigns random biomes to each, shuffling them around a bit to add rivers and such. The height and shape of terrain within these areas is determined by the biome, not the rest of the world.
+
+ATG completely changes this, instead creating height, temperature and moisture maps for the world and deriving the final biome based upon those. Higher areas are colder, areas away from the sea and where the temperature is high tend to be dryer.
+
+Donate:
+[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9WMH52S2NZJ64) /
+[Patreon](https://www.patreon.com/TTFTCUTS),
+[Download](http://www.curse.com/mc-mods/minecraft/228356-alternate-terrain-generation),
+IRC: Not Available,
+License: Not Available,
+[Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289717), [Reddit](https://www.reddit.com/r/feedthebeast/comments/1kc8ml/atg_alternate_terrain_generation_realistic_biome/),
+Source: Not Available,
+[Spotlight](https://www.youtube.com/watch?v=qRAu6WjSY2g),
+[Twitter](https://twitter.com/TTFTCUTS)
+
 ##Animated Player 1.4.1 by TheHippoMaster21
 
 Do you love Minecraft's default animations? Are you obsessed with the way the Minecraft player looks and acts? Do you wish Minecraft's player would forever look the same way? Well if you do, then this isn't the mod for you!
