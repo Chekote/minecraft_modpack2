@@ -222,7 +222,7 @@ This mod adds a single block item, a Hat Stand. You can use this to display the 
 
 [Donate](http://ichun.us/mods/hats/), [Download](http://adf.ly/quuDq), [IRC](http://webchat.esper.net/?channels=iChun), License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1754665-/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=5WoDn2V-pFA), [Twitter](https://twitter.com/ohaiiChun)
 
-##Infernal Mobs 1.6.0 by AtomicStryker
+##Infernal Mobs 1.6.6 by AtomicStryker
 
 This mod randomly imbues spawning Living Things in the World with Diablo-style random Enchantments, making them much harder and much more rewarding to kill.
 
