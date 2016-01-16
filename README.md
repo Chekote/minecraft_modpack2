@@ -134,7 +134,7 @@ ComputerCraft is a mod created for Minecraft by dan200 that adds Computers, Moni
 
 [Donate](https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=UKPoQPHv0tC39ng-o-DxERvn5CX9ZntxrwDBAp2SscnLX2fbnByvM-R7Z6O&dispatch=5885d80a13c0db1f8e263663d3faee8dbd0a2170b502f343d92a90377a9956d7), [Download](http://www.computercraft.info/download/), [IRC](http://webchat.esper.net/?channels=computercraft), [License](http://www.computercraft.info/download/), [Minecraft Forum](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279741), [Reddit](http://www.reddit.com/r/ComputerCraft/), Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=wrUHUhfCY5A), [Twitter](https://twitter.com/DanTwoHundred)
 
-##Dynamic Lights 1.3.8 by AtomicStryker
+##Dynamic Lights 1.3.9 by AtomicStryker
 
 Improves Minecrafts lighting system by allowing moving objects to cast light. For example, holding a torch in your hand, creatures and enemies that are on fire, magical armor, etc. Note that this is a visual effect only, and does not prevent monsters from spawning.
 "README.md" 29L, 3537C
