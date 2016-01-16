@@ -265,7 +265,7 @@ This Mod adds a huge number of new passive and hostile creatures to the game.
 
 [Donate](http://mocreatures.org/donate), [Download](http://mocreatures.org/downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/81771), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=56HE91UwHDE), [Twitter](https://twitter.com/DrZhark)
 
-##Not Enough Items 1.0.5.111 by ChickenBones
+##Not Enough Items 1.0.5.120 by ChickenBones
 
 NEI is a library tool for examining all of the items you can find and/or create in Minecraft. It provides the ability to search for items by name, and most importantly, easily lookup all the recipes that either consume or produce the item.
 
