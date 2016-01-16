@@ -3,34 +3,34 @@
 #Will try to find the highest position to spawn, better avoid any biome with hills
 #Needs at least 20 blocks underground, so it not recommended to use in biomes with height lower than 25
 
-#biomes = SNOWY
-biomes = SNOWY
+#biomes = PLAINS, WASTELAND, FOREST, DESERT, SWAMP
+biomes = NONWATER
 
 #chance: define the ratio at wich the dungeon spawns, if set to 0 the dungeon will be disabled.
 #The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
 
-chance = 20
+chance = 50
 
 #mob: defines the mob spawned in that dungeon
-mob = walker
+mob = default
 
 #icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
-icon = 7
+icon = 5
 
 #Builder allows you to choose what builder does the dungeon use
-builder = templateSurface
+builder = castle
 
-
-#Special data for templateSurface
-
-#folder: the folder containing the templates
-folder = DungeonConfig/Building/snowCastles
-
-#underGroundOffset: how many block will be used under the ground.
-underGroundOffset = 8
-
-#supportStructure: Generates a support cube under the dungeon using the specified blocks
-supportStructure = true
-structureBlock = @biome_filler
-structureTopBlock = minecraft:snow
-
+#Options
+#maxSize : Size of the castle perimeter
+maxSize = 60
+#roomSize of individual rooms(also affects towers)
+roomSize = 10
+#doorWidth, doorHeigth: height and width of interior doors
+doorWidth = 2
+doorHeight = 3
+#floorHeight: height of rooms
+floorHeight = 6
+#wallBlock
+wallBlock : minecraft:stonebrick
+#mobRatio: max ammount of monsters in the same room
+mobRatio = 2
