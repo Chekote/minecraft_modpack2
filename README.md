@@ -108,7 +108,7 @@ Blood Magic is an arcane art that is practiced by mages who attempt to gather a 
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=J7SNY7L82PQ82), [Download](http://minecraft.curseforge.com/mc-mods/224791), IRC: Not Available, [License](http://creativecommons.org/licenses/by/4.0/), [Minecraft Forum](http://www.minecraftforum.net/topic/1899223), Reddit: Not Available, [Source](https://github.com/WayofTime/BloodMagic), [Spotlight](https://www.youtube.com/watch?v=TKK2Eu-jsJM), [Twitter](https://twitter.com/WayofTime)
 
-##BuildCraft 7.1.13 by Covert Jaguar
+##BuildCraft 7.1.14 by Covert Jaguar
 
 Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!
 
