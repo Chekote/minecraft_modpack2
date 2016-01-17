@@ -310,7 +310,7 @@ Add Chemical X to the game, a mutinagenic that can be thrown at most Vanilla mob
 
 Donate: Not Available, [Download](http://goo.gl/DJXRz), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1336132), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=novGZ1mCqGQ), Twitter: Not Available
 
-##MystCraft 0.12.3.0 by XCompWiz
+##MystCraft 0.12.3.01 by XCompWiz
 
 ![banner](http://binarymage.com/mystcraft/media/mystcraft_banner_Unorthodox.jpg)
 
