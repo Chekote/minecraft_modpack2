@@ -336,7 +336,7 @@ Have you ever wished minecarts and rails had received a bit more attention durin
 
 [Donate](http://www.patreon.com/SpaceToad), [Download](http://www.railcraft.info/releases/), IRC: Not Available, [License](http://railcraft.wikispaces.com/License+(Info)), [Minecraft Forum](http://www.minecraftforum.net/topic/701990), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=c0Lhh00ZmuA), [Twitter](https://twitter.com/SpaceToadCraft)
 
-##RedLogic 59.1.11 by Immibis
+##RedLogic 59.1.13 by Immibis
 
 Add many redstone related blocks, such as various switches and logic gates, bundled cables, and lighting.
 
