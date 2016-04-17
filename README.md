@@ -52,7 +52,7 @@ Adds Scrolls to you to your game that give you different abilities. There are 4 
 
 Donate: Not Available, [Download](http://duke605.github.io/mods/arcane-scrolls/download/), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/1827837-172forgeuniversal-arcane-scrolls-v31224/), Reddit: Not Available, Source: Not Available, [Spotlight](https://www.youtube.com/watch?v=JfhEZgizmAk), Twitter: Not Available
 
-##Archimedes Ships Plus 1.8 by Darkevilmac
+##Archimedes Ships Plus 1.8.1 by Darkevilmac
 
 Wanna fly that giant sky island you made the other day? Want to actually use that pirate ship you built? Then this mod is what you need. Place a helm, add some balloons and off you go!
 
