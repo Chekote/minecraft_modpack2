@@ -160,7 +160,7 @@ AlexDGr8r had seen previous Meteor mods before with some of the features he has 
 
 [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=54TGB3BD295AA&amp;amp;lc=US&amp;amp;item_name=AlexDGr8r%20%2d%20Falling%20Meteors%20Mod%20Developer&amp;amp;currency_code=USD&amp;amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted), [Download](http://www.curse.com/mc-mods/minecraft/falling-meteors-mod#t1:other-downloads), IRC: Not Available, License: Not Available, [Minecraft Forum](http://www.minecraftforum.net/topic/989113), Reddit: Not Available, [Source](http://alexdgr8r.github.io/MeteorsMod/), [Spotlight](https://www.youtube.com/watch?v=wL0PM_xnyl0), [Twitter](https://twitter.com/AlexDGr8r)
 
-##Fastcraft 1.21 by Player
+##Fastcraft 1.23 by Player
 
 FastCraft is a sophisticated mod which improves the client and server performance significantly without any game play changes. FastCraft is useful for anything, even fast PCs and servers benefit.
 
