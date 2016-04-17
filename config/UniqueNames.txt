@@ -2222,6 +2222,7 @@ Railcraft:tool.crowbar.reinforced
 Railcraft:tool.crowbar.void
 Railcraft:tool.electric.meter
 Railcraft:tool.magnifying.glass
+Railcraft:tool.signal.label
 Railcraft:tool.signal.tuner
 Railcraft:tool.steel.axe
 Railcraft:tool.steel.hoe
